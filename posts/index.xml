@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hasty Slacker</title>
+    <link>hastyslacker.github.io/posts/</link>
+    <description>Recent content in Posts on Hasty Slacker</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 11:11:38 -0300</lastBuildDate><atom:link href="hastyslacker.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>So It Begins (Again)</title>
+      <link>hastyslacker.github.io/posts/so-it-begins-again/</link>
+      <pubDate>Sun, 31 Jan 2021 11:11:38 -0300</pubDate>
+      
+      <guid>hastyslacker.github.io/posts/so-it-begins-again/</guid>
+      <description>&lt;p&gt;Quase um ano após a última tentativa frustrada de começar a escrever em um site próprio como forma de documentar (e assim estimular) meu aprendizado de algumas tecnologias que talvez me possam ser úteis numa mudança de carreira, eis que surge a versão atual do Hasty Slacker. Especificamente, decidi retomar o site depois de ter completado o certificado de &lt;em&gt;Responsive Web Design&lt;/em&gt; do &lt;a href=&#34;https://www.freecodecamp.org/&#34;&gt;freeCodeCamp&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
