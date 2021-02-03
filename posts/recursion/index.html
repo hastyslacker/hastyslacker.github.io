@@ -49,8 +49,8 @@ O exercício era o seguinte: como escrever uma função que, recebendo dois núm
 <p>O exercício era o seguinte: como escrever uma função que, recebendo dois números, a saber, <code>startNum</code> e <code>endNum</code>, retorna um vetor com todos os números inteiros entre eles? O grande lance é que você não pode utilizar de expedientes como loops clássicos como as construções <code>for</code> e <code>while</code>. A saída é, portanto, utilizar funções recursivas.</p>
 <p>Uma função recursiva nada mais é que uma função que invoca a si mesmo quando é executada. O exemplo clássico da matemática é o fatorial.</p>
 <p>Fatorial(n) = n * Fatorial (n-1) = n * (n-1) * Fatorial (n-2)&hellip;</p>
-<p>Funções recursivas precisam sempre (eu acho) de definições nos casos-limite. No caso do fatorial, temos que Fatorial(0) = 1. Mas isso eu já sabia, não foi o que chamou a atenção no exercício do curso. Calma, eu vou chegar lá.</p>
-<p>Abaixo está o código em <em>javascript</em> que utilizei para resolver o desefio (depois descubro como faz para destacar o código nesse tema que estou usando).</p>
+<p>Funções recursivas precisam sempre (eu acho) de definições nos casos-limite. No caso do fatorial, temos que Fatorial(0) = 1. Mas isso eu já sabia e não foi o que chamou a minha atenção. Calma, eu vou chegar lá.</p>
+<p>Abaixo está o código em <em>javascript</em> que utilizei para resolver o desafio.</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-js" data-lang="js"><span style="color:#66d9ef">function</span> <span style="color:#a6e22e">rangeOfNumbers</span>(<span style="color:#a6e22e">startNum</span>, <span style="color:#a6e22e">endNum</span>) {
   <span style="color:#66d9ef">if</span> (<span style="color:#a6e22e">startNum</span> <span style="color:#f92672">===</span> <span style="color:#a6e22e">endNum</span>) {
     <span style="color:#66d9ef">return</span> [<span style="color:#a6e22e">startNum</span>];
@@ -61,8 +61,8 @@ O exercício era o seguinte: como escrever uma função que, recebendo dois núm
     <span style="color:#66d9ef">return</span> <span style="color:#a6e22e">numbers</span>;
   };
 };
-</code></pre></div><p>A parte dentro do <code>else</code> é a parte recursiva onde a função chama a si mesma e &ldquo;converge&rdquo; para o caso-limite. No caso, o caso limite do exercício estipula que quando <code>startNum</code> e <code>endNum</code> são iguais, a função deve retornar um <em>array</em> com o valor único. Foi isso que chamou minha atenção.</p>
-<p>Na parte recusiva, a função chama a si esma com um parâmetro <code>endNum - 1</code> e adiciona o valor de <code>endNum</code> ao final do <em>array</em> através do método <code>.push()</code>. Eu achei que essa formulação não ia funcionar porque a parte não-recursiva, contém <code>return [startNum]</code> e achei que isso ia encerrar a execução da função. Mas isso não acontece. Uma vez que a parte recursiva já está sendo executada, o <code>return</code> da parte não-recursiva não encerra a ação, mas apenas é repassado ao estágio &ldquo;anterior&rdquo; (no caso, a última chamada de <code>rangeOfNumbers(startNum, endNum - 1</code>).</p>
+</code></pre></div><p>A parte dentro do <code>else</code> é a parte recursiva onde a função chama a si mesma reiteradamente até caso-limite. O caso limite do exercício estipula que quando <code>startNum</code> e <code>endNum</code> são iguais, a função deve retornar um <em>array</em> com o valor único. Foi isso que chamou minha atenção.</p>
+<p>Na parte recursiva, a função chama a si esma com um parâmetro <code>endNum - 1</code> e adiciona o valor de <code>endNum</code> ao final do <em>array</em> através do método <code>.push()</code>. Eu achei que essa formulação não ia funcionar porque a parte não-recursiva, contém <code>return [startNum]</code> e achei que isso ia encerrar a execução da função. Mas isso não acontece. Uma vez que a parte recursiva já está sendo executada, o <code>return</code> da parte não-recursiva não encerra a ação, mas apenas é repassado ao estágio &ldquo;anterior&rdquo; (no caso, a última chamada de <code>rangeOfNumbers(startNum, endNum - 1</code>).</p>
 <p>O seguinte <a href="https://www.programiz.com/javascript/recursion">post</a> tem uma boa explicação visual.</p>
 <p>Vivendo e aprendendo.</p>
 
