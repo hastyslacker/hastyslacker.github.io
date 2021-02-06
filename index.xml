@@ -6,7 +6,16 @@
     <description>Recent content on Hasty Slacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Feb 2021 21:50:39 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Feb 2021 21:13:18 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Euler Project</title>
+      <link>/posts/euler-project/</link>
+      <pubDate>Fri, 05 Feb 2021 21:13:18 -0300</pubDate>
+      
+      <guid>/posts/euler-project/</guid>
+      <description>Em um desses últimos dias o acaso fez com que eu descobrisse o site Project Euler. Nele você encontra mais de 700 problemas matemáticos que podem ser resolvidos com programação. Há desde problemas elementares como, por exemplo, achar a soma de todos os ímpares de Fibonnaci menores que 4.</description>
+    </item>
+    
     <item>
       <title>Recursion</title>
       <link>/posts/recursion/</link>
