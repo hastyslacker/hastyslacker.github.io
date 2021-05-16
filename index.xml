@@ -6,7 +6,16 @@
     <description>Recent content on Hasty Slacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Apr 2021 11:21:14 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 08:37:01 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resenha - Deep Work</title>
+      <link>/posts/deepwork/</link>
+      <pubDate>Sun, 16 May 2021 08:37:01 -0300</pubDate>
+      
+      <guid>/posts/deepwork/</guid>
+      <description>Neste post resenho o livro Deep Work: Rules for Focused Sucesse in a Distracted World, escrito por Cal Newport. Tomei conhecimento do autor e de seu trabalho por meio do podcast do Lex Fridman. A conversa entre eles está aqui.</description>
+    </item>
+    
     <item>
       <title>Math Typesetting</title>
       <link>/posts/math-typesetting/</link>
