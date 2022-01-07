@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/metas-2022/</loc>
-    <lastmod>2022-01-01T12:48:01-03:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-01-07T15:15:03-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/weekly/semana-1/</loc>
+    <lastmod>2022-01-07T15:15:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/weekly/</loc>
+    <lastmod>2022-01-07T15:15:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/metas-2022/</loc>
     <lastmod>2022-01-01T12:48:01-03:00</lastmod>
   </url>
   
