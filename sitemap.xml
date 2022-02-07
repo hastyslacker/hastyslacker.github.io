@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/born-to-run/</loc>
-    <lastmod>2022-01-31T13:32:59-03:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-02-06T20:47:50-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/weekly/semana-5/</loc>
+    <lastmod>2022-02-06T20:47:50-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/weekly/</loc>
+    <lastmod>2022-02-06T20:47:50-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/born-to-run/</loc>
     <lastmod>2022-01-31T13:32:59-03:00</lastmod>
   </url>
   
@@ -19,11 +29,6 @@
   
   <url>
     <loc>/weekly/semana-4/</loc>
-    <lastmod>2022-01-31T08:32:00-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/weekly/</loc>
     <lastmod>2022-01-31T08:32:00-03:00</lastmod>
   </url>
   
