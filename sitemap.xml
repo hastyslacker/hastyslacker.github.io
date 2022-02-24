@@ -1,99 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>/</loc>
-    <lastmod>2022-02-20T18:10:50-03:00</lastmod>
-  </url>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
     <loc>/weekly/semana-7/</loc>
-    <lastmod>2022-02-20T18:10:50-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/weekly/</loc>
-    <lastmod>2022-02-20T18:10:50-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/weekly/semana-6/</loc>
-    <lastmod>2022-02-13T21:26:56-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/learn-in-public/</loc>
-    <lastmod>2022-02-08T08:48:25-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2022-02-08T08:48:25-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/weekly/semana-5/</loc>
-    <lastmod>2022-02-06T20:47:50-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/born-to-run/</loc>
-    <lastmod>2022-01-31T13:32:59-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/weekly/semana-4/</loc>
-    <lastmod>2022-01-31T08:32:00-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/weekly/semana-3/</loc>
-    <lastmod>2022-01-23T19:55:57-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/weekly/semana-2/</loc>
-    <lastmod>2022-01-07T16:44:09-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/weekly/semana-1/</loc>
-    <lastmod>2022-01-07T15:15:03-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/metas-2022/</loc>
-    <lastmod>2022-01-01T12:48:01-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/there-and-back-again/</loc>
-    <lastmod>2021-12-22T20:05:12-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/deepwork/</loc>
-    <lastmod>2021-05-16T08:37:01-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/math-typesetting/</loc>
-    <lastmod>2021-04-25T11:21:14-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
     <loc>/posts/ritual/</loc>
-    <lastmod>2021-04-21T09:24:10-03:00</lastmod>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/12-rules-for-life/</loc>
+    <loc>/posts/12%20rules%20for%20life/</loc>
     <lastmod>2021-04-11T10:30:54-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/licenca-negada/</loc>
+    <loc>/posts/licenca%20negada/</loc>
     <lastmod>2021-04-11T10:30:54-03:00</lastmod>
   </url>
   
@@ -118,7 +102,7 @@
   </url>
   
   <url>
-    <loc>/posts/so-it-begins-again/</loc>
+    <loc>/posts/so%20it%20begins%20%28again%29/</loc>
     <lastmod>2021-02-06T14:18:51-03:00</lastmod>
   </url>
   
@@ -128,11 +112,21 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/weekly/</loc>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
+    <priority>0</priority>
   </url>
   
 </urlset>
