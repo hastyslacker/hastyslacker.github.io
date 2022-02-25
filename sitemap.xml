@@ -1,8 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2022-02-25T11:07:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/linux-in-windows/</loc>
+    <lastmod>2022-02-25T11:07:39-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2022-02-25T11:07:39-03:00</lastmod>
+  </url>
   
   <url>
     <loc>/weekly/semana-7/</loc>
+    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/weekly/</loc>
     <lastmod>2022-02-23T19:10:38-03:00</lastmod>
   </url>
   
@@ -72,12 +93,12 @@
   </url>
   
   <url>
-    <loc>/posts/12%20rules%20for%20life/</loc>
+    <loc>/posts/12-rules-for-life/</loc>
     <lastmod>2021-04-11T10:30:54-03:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/licenca%20negada/</loc>
+    <loc>/posts/licenca-negada/</loc>
     <lastmod>2021-04-11T10:30:54-03:00</lastmod>
   </url>
   
@@ -102,7 +123,7 @@
   </url>
   
   <url>
-    <loc>/posts/so%20it%20begins%20%28again%29/</loc>
+    <loc>/posts/so-it-begins-again/</loc>
     <lastmod>2021-02-06T14:18:51-03:00</lastmod>
   </url>
   
@@ -112,21 +133,11 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
-    <priority>0</priority>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/posts/</loc>
-    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/weekly/</loc>
-    <lastmod>2022-02-23T19:10:38-03:00</lastmod>
-    <priority>0</priority>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>

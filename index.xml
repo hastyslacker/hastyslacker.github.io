@@ -1,13 +1,20 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hasty Slacker</title>
-    <link>/index.xml</link>
+    <link>/</link>
     <description>Recent content on Hasty Slacker</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 20 Feb 2022 18:10:50 -0300</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Feb 2022 11:07:39 -0300</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux in Windows</title>
+      <link>/posts/linux-in-windows/</link>
+      <pubDate>Fri, 25 Feb 2022 11:07:39 -0300</pubDate>
+      
+      <guid>/posts/linux-in-windows/</guid>
+      <description>Escrevo estas linhas do arquivo linux-in-windows.md utilizando o Vim e em breve elas serão transformadas pelo HUGO para um formato HTML e subidas para um repósito github para serem espalhadas pela internet através de um git push escrito num script bash.</description>
+    </item>
     
     <item>
       <title>Semana 7 - 14/02 a 20/02</title>
@@ -15,28 +22,7 @@
       <pubDate>Sun, 20 Feb 2022 18:10:50 -0300</pubDate>
       
       <guid>/weekly/semana-7/</guid>
-      <description>&lt;p&gt;Escrevo este post mais cedo do que de costume, mas não muito. Ao invés de estar correndo contra o tempo para não perder o streak, estou escrevendo estas linhas por volta das 18h10 do domingo. Acabo de acordar de 2h de soneca e ainda me encontro um pouco desorientado, então vamos por partes, conforme as coisas forem emergindo da minha mente.&lt;/p&gt;
-
-&lt;p&gt;Em primeiro lugar acho que é bom pontuar que ontem completou uma semana que a gatinha Clarice está morando conosco aqui em casa. Frequentemente eu e minha namorada comentamos um com o outro sobre o quão impressionante é conseguir se apaixonar por um bixinho tão rapidamente. Será que é assim com todo animalzinho ou a Clarice é especial? Ela é muito carinhosa e brincalhona - não sei se estaríamos arriados assim se fosse um gato mais chatonildo.&lt;/p&gt;
-
-&lt;p&gt;Ontem levei ela à veterinária e, aparentemente, ela não tem nenhum problema. Falta vacinar e vai precisar de um anti-pulga, mas de resto está tudo ok. Fiquei muito satisfeito quando a veterinária falou: &amp;ldquo;dá muito para ver que ela é um animalzinho feliz&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;A propósito, abaixo vai uma foto da coisica.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;clarice.jpeg&#34; alt=&#34;image alt text&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Esta semana as TVs foram instaladas nas paredes e plantas foram penduradas. A casa está muito próxima de sua forma final. Falta a mesa de jantar e talvez modificar um pouco os escritórios.&lt;/p&gt;
-
-&lt;p&gt;No trabalho eu evoluí pouco mas não foi uma semana nula. Estou um pouco chateado que não programei nada. No entanto, assisti uma apresentação super legal do Flavio Clesio, Staff engineer na Artsy. O blog que ele mantém é sensacional. Inclusive, pode ser visitado &lt;a href=&#34;https://flavioclesio.com/&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Malhei o suficiente para não ser uma semana parada e fiquei bem satisfeito com as corridas que dei. Mas após a corrida de sábado (4km num ritmo satisfatório) as minhas costas simplesmente travaram. Foi uma travada muscular, bem diferente das travadas que costumavam acontecer comigo. De qualquer forma estou tomando dorflex porque se não o fizesse, não conseguiria levantar da cama.&lt;/p&gt;
-
-&lt;p&gt;Na sexta-feira saí para encontrar amigos no bar e mais uma vez consegui não beber. Fiquei bem satisfeito com isso. Mas fumei uns 5 cigarros lá. Uma muleta, eu sei. Baby steps. A propósito, o encontro foi por ocasião do aniversário do amigo cuja casa limpei (e relatei num post pretérito). Ele parece melhor, conseguiu terminar de limpar a própria casa. E está decidido a ir embora de São Paulo num esforço para cuidar mais de si. Torço demais por ele.&lt;/p&gt;
-
-&lt;p&gt;Li muito pouco essa semana. Precisar dar o gás no Beyond Order, do Jordan Peterson. Ler em inglês requer um comprometimento de tempo maior do que em português e isso tem feito eu evitar a tarefa.&lt;/p&gt;
-
-&lt;p&gt;Acho que é isso. Até a próxima, se é que alguém além de mim mesmo lê estas linhas.&lt;/p&gt;
-</description>
+      <description>Escrevo este post mais cedo do que de costume, mas não muito. Ao invés de estar correndo contra o tempo para não perder o streak, estou escrevendo estas linhas por volta das 18h10 do domingo. Acabo de acordar de 2h de soneca e ainda me encontro um pouco desorientado, então vamos por partes, conforme as coisas forem emergindo da minha mente.</description>
     </item>
     
     <item>
@@ -45,18 +31,7 @@
       <pubDate>Sun, 13 Feb 2022 21:26:56 -0300</pubDate>
       
       <guid>/weekly/semana-6/</guid>
-      <description>&lt;p&gt;Esta semana que acaba (ou se inicia, afinal, é domingo) foi uma boa semana. Ainda trabalhei muito aquém do que acho que devo e posso trabalhar, é verdade, mas pelo menos trabalhei alguma coisa. No total devo ter cravado umas 4 horas de trabalho focado.&lt;/p&gt;
-
-&lt;p&gt;Hospedamos durante a semana uma amiga da minha namorada e tudo correu suave. Ainda que tudo tenha corrido bem, é sempre bom quando voltamos a ter a casa só para nós mesmos. O lar é algo difícil de permanecer lar quando nele está gente que não mora ali. Isso não é desculpa para nunca hospedar ninguém - pelo contrário, é um atestado de quão nobre é dar um pouso para aqueles que precisam.&lt;/p&gt;
-
-&lt;p&gt;Um ponto baixo da semana é que nela eu não programei. Não trisquei em Python, não li sobre software. Um ponto alto foi que continuei me exercitando bem e pegando uma sauna - no domingo fiz o treino de corrida mais puxado até agora e sinto que me saí bem. Mas o ponto alto de verdade foi a adoção de uma gatinha: a Clarice.&lt;/p&gt;
-
-&lt;p&gt;A moça da adoção parecia meio doidinha, mas há de ser meio doidinha mesmo uma pessoa que tem como missão resgatar bixinhos e os preparar para adoção.&lt;/p&gt;
-
-&lt;p&gt;Clarice quando chegou aqui em casa ficou umas 2 horas escondida numa estante da minha namorada. Depois foi explorar a casa e rapidamente já chegou cheia de amores para nós. É uma gata &amp;ldquo;rajada&amp;rdquo;, muito manhosa, carinhosa, miadora e bonitinha. Estamos muito felizes com ela. Torço para que continue assim. Dá uma vida pra casa.&lt;/p&gt;
-
-&lt;p&gt;Por hoje paro por aqui. Que a semana que chega seja tão boa quanto esta que passou.&lt;/p&gt;
-</description>
+      <description>Esta semana que acaba (ou se inicia, afinal, é domingo) foi uma boa semana. Ainda trabalhei muito aquém do que acho que devo e posso trabalhar, é verdade, mas pelo menos trabalhei alguma coisa. No total devo ter cravado umas 4 horas de trabalho focado.</description>
     </item>
     
     <item>
@@ -65,28 +40,8 @@
       <pubDate>Tue, 08 Feb 2022 08:48:25 -0300</pubDate>
       
       <guid>/posts/learn-in-public/</guid>
-      <description>&lt;p&gt;Estes dias, enquanto zanzava pelo Twitter, vi que uma meia (&lt;a href=&#34;https://twitter.com/pedroocava&#34;&gt;https://twitter.com/pedroocava&lt;/a&gt;) postou o link para o seguinte texto: &lt;a href=&#34;http://carl.flax.ie/dothingstellpeople.html&#34;&gt;http://carl.flax.ie/dothingstellpeople.html&lt;/a&gt;. É um textinho curto e absolutamente ótimo.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Do things, tell people.
-These are the only things you need to do to be successful. You can get away with just doing one of the two, but that&amp;rsquo;s rare, and usually someone else is doing the other part for you.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Já há algum tempo eu tenho a sensação de que é exatamente este o caminho para conseguir um emprego ou mesmo criar uma empresa nestes tempos que a internet permeia quase tudo que fazemos.&lt;/p&gt;
-
-&lt;p&gt;Se você está aprendendo algo, publicar conteúdo sobre seu aprendizado serve para algumas coisas:
-- Ajuda a fixar o conteúdo aprendido
-- Mostra que você não tem vergonha de aprender
-- Demonstra sua capacidade de transmitir uma mensagem que seja&lt;/p&gt;
-
-&lt;p&gt;A quantidade potencial de contatos e engajamento genuíno que estas publicações podem gerar parecem em muito suplantar os custos dessa produção de conteúdo.&lt;/p&gt;
-
-&lt;p&gt;Além disso, o baixo custo (para além do custo do nosso tempo) de se experimentar com a criação de software hoje em dia, torna a realização de projetos, quaisquer que sejam, um meio muito bom demonstrar sua capacidade de realização.&lt;/p&gt;
-
-&lt;p&gt;Isto é algo que quero e acho que deva fazer quando eu de fato começar a ser mais sério sobre uma mudança da carreira burocrática para a carreira tecnológica.&lt;/p&gt;
-
-&lt;p&gt;Se eu vou conseguir? &lt;em&gt;I don&amp;rsquo;t really know.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <description>Estes dias, enquanto zanzava pelo Twitter, vi que uma meia (https://twitter.com/pedroocava) postou o link para o seguinte texto: http://carl.flax.ie/dothingstellpeople.html. É um textinho curto e absolutamente ótimo.
+ Do things, tell people. These are the only things you need to do to be successful.</description>
     </item>
     
     <item>
@@ -95,20 +50,7 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Sun, 06 Feb 2022 20:47:50 -0300</pubDate>
       
       <guid>/weekly/semana-5/</guid>
-      <description>&lt;p&gt;Escrevo este post no domingo a noite com o cansaço da semana nas minhas articulações. Comecei a semana sem conseguir trabalhar mas pelo menos demos a terceira demão numa das paredes e o resultado ficou ótimo. A sala de casa está quase pronta.&lt;/p&gt;
-
-&lt;p&gt;Terça e quarta, também sem conseguir trabalhar, eu e minha namorada montamos uma rack. Ficou muito bom mas não ficou perfeito, tem um encaixe que tá meio fajuto. Não é nada perceptível, mas nós sabemos que ele está lá, haha. Quase brigamos algumas vezes durante a montagem. Eu sou uma pessoa do estilo &amp;ldquo;meça duas vezes, corte uma&amp;rdquo;, enquanto ela é mais tentativa &amp;amp; erro.&lt;/p&gt;
-
-&lt;p&gt;Somente na sexta-feira eu consegui trabalhar de verdade. Uma das coisas que fiz foi seguir à risca exatamente o que eu sei que devo fazer. Acordar e imediatamente começar a trabalhar, sem sequer olhar celular e qualquer coisa no navegador (portais de notícia, Twitter e Youtube). Consegui emplacar três sessões de 50 minutos de &lt;em&gt;Deep Work&lt;/em&gt;, nas palavras do Cal Newport, e fez uma baita diferença. No meu humor, inclusive. É impressionante como eu fico bem humorado quando eu consigo trabalhar de verdade. Tão logo eu me permiti novamente ver notícias, whatsapp, twitter e o caralho, minha concentração foi pro saco.&lt;/p&gt;
-
-&lt;p&gt;Ainda na sexta fui pro show da banda da minha namorada e consegui me divertir sem beber. Foi mais fácil do que eu pensei - mas acabei fumando um cigarrinho. O mais notável foi a percepção de que, se eu estivesse bebendo, após o fim do show eu ia dar um jeito de continuar bebendo em outro lugar. Como não estava, acabou o show e viemos para casa - ambos estávamos cansados afinal de contas.&lt;/p&gt;
-
-&lt;p&gt;No sábado demos outra demão em outra parede e, apesar de não ter ficado perfeita, ficou bem melhor do que estava antes. Eu e minha namorada nos estranhamos algumas vezes - acho que talvez seja muito convivência resolvendo pepino e não curtindo a vida. &lt;em&gt;What you&amp;rsquo;re gonna do? You gotta do what you gotta do.&lt;/em&gt; Neste dia eu também comecei uma nova &lt;em&gt;run&lt;/em&gt; de &lt;a href=&#34;https://youtu.be/LNHZ9WAertc&#34;&gt;Prey&lt;/a&gt;, um dos meu jogos favoritos.&lt;/p&gt;
-
-&lt;p&gt;E hoje, no domingo, eu fui à casa de um amigo que está numa depressão das brabas. A casa dele estava parecendo um cativeiro de cracudo. Eu e outro camarada fizemos uma faxina em algumas partes. Nosso objetivo era dar um choque de limpeza o suficiente para que ele conseguisse terminar o serviço sozinho. Conversamos um tanto, demos risadas, e nos disponibilizamos. Tomara que tenha servido de ajuda. Fiquei um pouco assustado - e aliviado, pois nem no vale da minha própria depressão eu cheguei a descuidar tanto da minha casa.&lt;/p&gt;
-
-&lt;p&gt;Também fiquei feliz que consegui me exercitar bem durante a semana. Além disso, utilizei bastante a sauna do meu condomínio e isso tem sido ótimo. Que a semana que chega seja pelo menos tão boa quanto a que passou.&lt;/p&gt;
-</description>
+      <description>Escrevo este post no domingo a noite com o cansaço da semana nas minhas articulações. Comecei a semana sem conseguir trabalhar mas pelo menos demos a terceira demão numa das paredes e o resultado ficou ótimo. A sala de casa está quase pronta.</description>
     </item>
     
     <item>
@@ -117,20 +59,7 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Mon, 31 Jan 2022 13:32:59 -0300</pubDate>
       
       <guid>/posts/born-to-run/</guid>
-      <description>&lt;p&gt;Eu nunca gostei de correr. Quando criança, na escola, minhas corridas estavam sempre restritas às partidas de futsal ou a brincadeiras como &lt;em&gt;31 salve eu&lt;/em&gt; (mais conhecida como pique-esconde) e queimada. Depois de crescido, meu &lt;em&gt;cardio of choice&lt;/em&gt;, quando possível, sempre foi a natação. Ocorre que, desde que vim morar em São Paulo, a natação se tornou algo de difícil acesso ou caro (ou ambos). Além disso, minha namorada sempre gostou de correr e fizemos juntos o compromisso de completar a corrida de São Silvestre neste ano de 2022. E aí que, antes de efetivamente começar a correr, coloquei em marcha a leitura que eu já adiava há muito tempo: Born to Run, do Christopher McDougall.&lt;/p&gt;
-
-&lt;p&gt;O primeiro contato que tive com o título foi através do &lt;a href=&#34;https://twitter.com/TuckerGoodrich&#34;&gt;Tucker Goodrich&lt;/a&gt;, a quem sigo por ocasião de seus tuítes sobre efeitos gerais do consumo humano de óleo vegetal industrializado. De cara percebi que o livro tinha o mesmo espírito da comunidade &lt;em&gt;low carb&lt;/em&gt;: um apelo de retorno ao natural. Nesse caso, um retorno ao correr descalço. Por isso antes de ler o livro eu pensei que ele fosse um livro de divulgação científica, com estudos formatados para o leitor leigo. Eu estava enganado. Ainda bem.&lt;/p&gt;
-
-&lt;p&gt;Born to Run se inicia na experiência pessoal do autor ao lidar com suas recorrentes lesões oriundas da sua prática da corrida. Desencorajado por vários médicos e ciente da prevalência brutal de lesões em praticantes de corrida (independente das características desses corredores), McDougall tem contato com pesquisadores que atribuem lesões não à prática da corrida em si, mas à prática da corrida quando usamos calçados que modificam sobremaneira a pisada humana.&lt;/p&gt;
-
-&lt;p&gt;Com esta informação o autor começa a pesquisar sobre grupos de pessoas que tem o costume de correr descalças ou com calçados minimalistas. E é a partir desta pesquisa que ele parte em busca dos Tarahumara, uma tribo de indígenas mexicanos avessos à modernidade e que ao longo do tempo foram se isolando no Copper Canyons, uma região do Mexico dominada pelos cartéis de drogas.&lt;/p&gt;
-
-&lt;p&gt;Naturalmente, um povo avesso à modernidade tampouco é receptiva a estranhos que os buscam com a curiosidade de McDougall. Assim, o autor é obrigado a buscar um intermediário - um americano que vive com os índigenas há cerca de uma década. Uma figura conhecida apenas como &lt;em&gt;Caballo Blanco&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;A busca e o encontro com Caballo, um branquelo que corre para lá de 15km por dia no meio do deserto, sem lesões nem maiores problemas, deixa claro que McDougall está no rastro de um conhecimento esquecido. A partir daí o livro se espraia para a exploração do universo das ultramaratonas, seus maiores expoentes e eventos, a ascensão da Nike e, finalmente, uma corrida underground entre os maiores &lt;em&gt;ultrarunners&lt;/em&gt;, índios Tarahumara e o autor, numa trilha no território indígena.&lt;/p&gt;
-
-&lt;p&gt;Born to Run é uma leitura fácil, fluida, informativa e, que se não te convencer que correr sem tênis é o certo a se fazer, vai certamente fazer você trocar algumas vezes a proteção da sola do tênis pela liberdade do pé descalço.&lt;/p&gt;
-</description>
+      <description>Eu nunca gostei de correr. Quando criança, na escola, minhas corridas estavam sempre restritas às partidas de futsal ou a brincadeiras como 31 salve eu (mais conhecida como pique-esconde) e queimada. Depois de crescido, meu cardio of choice, quando possível, sempre foi a natação.</description>
     </item>
     
     <item>
@@ -139,24 +68,8 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Mon, 31 Jan 2022 08:32:00 -0300</pubDate>
       
       <guid>/weekly/semana-4/</guid>
-      <description>&lt;p&gt;Esta quarta entrada no semanário, a última de janeiro, eu a escrevo (mais) atrasado do que de costume. O faço na segunda-feira de manhã, antes de (tentar) trabalhar.&lt;/p&gt;
-
-&lt;p&gt;De modo geral a semana passada foi uma semana boa. Consegui trabalhar algumas horas e está um pouco mais claro o que preciso fazer imediatamente, mas ainda não peguei a inércia que esperava já ter alcançado a esta altura do ano. Vou seguindo, afinal, não há alternativa.&lt;/p&gt;
-
-&lt;p&gt;A propósito, terminei de ler &lt;em&gt;Born to run&lt;/em&gt; e em breve quero escrever uma resenha neste site. Mais uma promessa. Cumprirei?&lt;/p&gt;
-
-&lt;p&gt;De muito significante aconteceu que aqui em casa eu, minha namorada e uns amigos pintamos duas paredes. Eu fiz a maior parte do trabalho, sem dúvidas, mas sem a ajuda e os pitacos eu não teria dado conta. Gostei da experiência. Foi algo manual e, na pegada do &lt;em&gt;Shopclass as Soulcraft&lt;/em&gt;, que mencionei na entrada passada, apesar de não ter ficado perfeito, eu posso simplesmente apontar para a parede e falar: o trabalho está feito. Isso aconteceu no sábado.&lt;/p&gt;
-
-&lt;p&gt;No domingo, no entanto, já com o cansaço do dia anterior de trabalhos manuais, eu e minha namorada começamos o dia assando uma fornada de pão de queijo que um amigo trouxera de presente. A partir daí foi ladeira abaixo. Comemos 3 baldes de pipoca com ketchup, um saco de chipas de queijo, 2L de coca-cola e assistimos 6 episódios de Game of Thrones.&lt;/p&gt;
-
-&lt;p&gt;Veja bem, foi ótimo. Mas acordar na segunda-feira todo inchado e com preguiça me faz colocar em perspectiva todo esse prazer de curto prazo. Tenho gostado tanto de me sentir bem (ou pelo menos de não me sentir mal) que, quando faço um exagero desse e acordo zoado no outro dia, é difícil não pensar que talvez nunca mais comer gordices seja a melhor das escolhas.&lt;/p&gt;
-
-&lt;p&gt;Programei pouco em python na semana passada. Li um pouco sobre node.js e fiquei pensando se talvez não é melhor investir em javascript. Acho que não. Mas é algo a ter sempre em mente.&lt;/p&gt;
-
-&lt;p&gt;Hoje é aniversário do meu irmão. É preciso dar outra demão de tinta numa das paredes (e talvez na outra também, a ver). Preciso trabalhar.&lt;/p&gt;
-
-&lt;p&gt;Vamos lá.&lt;/p&gt;
-</description>
+      <description>Esta quarta entrada no semanário, a última de janeiro, eu a escrevo (mais) atrasado do que de costume. O faço na segunda-feira de manhã, antes de (tentar) trabalhar.
+De modo geral a semana passada foi uma semana boa. Consegui trabalhar algumas horas e está um pouco mais claro o que preciso fazer imediatamente, mas ainda não peguei a inércia que esperava já ter alcançado a esta altura do ano.</description>
     </item>
     
     <item>
@@ -165,22 +78,8 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Sun, 23 Jan 2022 19:55:57 -0300</pubDate>
       
       <guid>/weekly/semana-3/</guid>
-      <description>&lt;p&gt;Será que o domingo a noite vai se tornando aos poucos o momento no qual eu paro para passar em revista à semana e escrever estas parcas (e porcas) linhas surgidas de uma promessa de virada de ano? Divago.&lt;/p&gt;
-
-&lt;p&gt;No final de semana passado gastei os dias a desempacotar as caixas da mudança e a dar forma, junto com minha namorada, ao nosso lar. Tenho a impressão de que ela fez mais coisas que eu, mas até que eu fiz também algumas coisas também. Instalamos um varal, a máquina de lavar, o fogão no gás encanado. Fiz orçamentos de telas de proteção para o gato e de alguma forma consegui aproveitar um cabo de rede que já estava atravessado pela rede elétrica e colocar internet cabeada no velho, porém reformado, desktop.&lt;/p&gt;
-
-&lt;p&gt;A amiga da minha namorada que mencionei no semanário anterior chegou para ficar aqui alguns dias aqui em casa. A &lt;em&gt;roomate&lt;/em&gt; da garota não parece muito interessada (ou pelo menos compelida) a prestar alguma assistência à coitada que se recupera da enfermidade. Tanto que viajou e a deixou sozinha. Para não ficar sozinha, veio para cá. Acredito que temos cuidado bem dela. É uma pessoa agradável, não dá trabalho mesmo quando precisa de cuidado.&lt;/p&gt;
-
-&lt;p&gt;Nesta semana consegui trabalhar algumas horas. No total acho que umas 4h de trabalho focado. Estou feliz com essa mixaria. Alguma mixaria já é melhor que coisa nenhuma. Também esta semana explorei o tutorial que consta na documentação oficial do framework Django. Embora seja somente o tipo de exercício que sigo copiando o código, fico satisfeito quando entendo como a coisa toda está funcionando. Em breve pretendo começar a escrever a aplicação sobre monitoramento de hábitos.&lt;/p&gt;
-
-&lt;p&gt;E por falar em hábitos eu tenho conseguido me exercitar ao longo dos dias. Tenho feito pequenas séries de repetições ao longo do dia inteiro. Nas palavras de Pavel Tsatsouline: &lt;em&gt;&amp;ldquo;greasing the groove&amp;rdquo;&lt;/em&gt;. No final de semana, quando fui &amp;ldquo;malhar de fato&amp;rdquo; no parque, eu percebi que o número de repetições que costumo fazer aumentaram.&lt;/p&gt;
-
-&lt;p&gt;Meus pais contraíram covid (ou gripe, ou ambos). Felizmente os sintomas tem sido modestos e parece que eles já estão quase totalmente recuperados. O que me lembra: tenho que ligar para eles.&lt;/p&gt;
-
-&lt;p&gt;Hoje, domingo, eu comecei o dia passando 6 horas engalfinhado no banheiro raspando sobra de rejunte. Me lembrei muito do livro &lt;em&gt;Shopclass as soulcraft&lt;/em&gt;, que resenhei neste site. Ou melhor, não resenhei não. Comecei a escrever mas nunca publiquei. Acho que agora na verdade merece uma releitura. Enfim, raspar rejunte não foi prazeroso, não tanto pelo processo, mas porque não queria ter passado 6h do domingo fazendo isso. Mas agora que passou, não foi tão ruim assim. Sei não, sei lá, estou com sentimentos confusos quanto a isso.&lt;/p&gt;
-
-&lt;p&gt;Paro por aqui.&lt;/p&gt;
-</description>
+      <description>Será que o domingo a noite vai se tornando aos poucos o momento no qual eu paro para passar em revista à semana e escrever estas parcas (e porcas) linhas surgidas de uma promessa de virada de ano? Divago.
+No final de semana passado gastei os dias a desempacotar as caixas da mudança e a dar forma, junto com minha namorada, ao nosso lar.</description>
     </item>
     
     <item>
@@ -189,18 +88,8 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Fri, 07 Jan 2022 16:44:09 -0300</pubDate>
       
       <guid>/weekly/semana-2/</guid>
-      <description>&lt;p&gt;Aos 45 do segundo tempo (também conhecido como domingo às 23h) eu escrevo esta entrada no semanário para, pelo menos, manter o compromisso atendido, ainda que de maneira meio tronxa.&lt;/p&gt;
-
-&lt;p&gt;Esta semana foi corrida para caralho. Comecei ela dando rolê de ambulância pelas ruas da cidade onde moro. Uma amiga da minha namorada estava com sintomas de gripe (ou covid, vai saber) e não conseguiu melhorar só com descanso em casa. Precisou de se picar pra uma UPA e de lá pra um hospital de fato, para ser internada - oxigênio, antibiótico e fisioterapia respiratória. O que me lembra: jamais deixar de pagar o plano de saúde.&lt;/p&gt;
-
-&lt;p&gt;Essa semana ainda não trabalhei. E o sentimento que relatei na semana passada, de que, apesar de tudo, em sentia que ia pegar no tranco em breve, se dissipou um pouco. Não é que eu não tenho feito nada - eu só não fiz o que deveria ter feito (&lt;em&gt;can you hear the self-absolution bullshit?&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Quando não estava resolvendo coisas da mudança, eu fiz alguns tutoriais do web framework Django e, como sempre, quando se trata de algo relacionado à programação, eu me diverti bastante. E na sexta-feira eu me mudei pra um apartamento com minha namorada. Apê maneiro, condomínio bonzão. Ainda afogados em caixas e também com a função de me livrar do apê antigo e resolver as pendências clássicas pós mudança (seguros, transferências de contas, etc). Tô cansado, mas bem satisfeito.&lt;/p&gt;
-
-&lt;p&gt;A propósito, todo o meu respeito para os carregadores que trabalham na indústria da mudança. Que trabalho extenuante. Não sei como aguentam. Sei que é só uma atividade econômica, mas pelo tanto de peso que os caras carregaram, não consigo não os achar heróis (mesmo que tenha achado o serviço meio bosta.).&lt;/p&gt;
-
-&lt;p&gt;Semana que vem tô aqui de novo. Duvida? Bom, eu também.&lt;/p&gt;
-</description>
+      <description>Aos 45 do segundo tempo (também conhecido como domingo às 23h) eu escrevo esta entrada no semanário para, pelo menos, manter o compromisso atendido, ainda que de maneira meio tronxa.
+Esta semana foi corrida para caralho. Comecei ela dando rolê de ambulância pelas ruas da cidade onde moro.</description>
     </item>
     
     <item>
@@ -209,18 +98,7 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Fri, 07 Jan 2022 15:15:03 -0300</pubDate>
       
       <guid>/weekly/semana-1/</guid>
-      <description>&lt;p&gt;A primeira semana do ano foi esquisita. Ainda não consegui pegar no tranco em relação ao trabalho, ou, pra ser direto, eu não fiz nenhum trabalho digno do nome trabalho. No entanto, consegui manter a rotina bem saudável: me alimentei bem, me exercitei bem, dormi bem. E, embora não tenha trabalhado de verdade, estou com uma sensação de que em breve vou conseguir engatar um ritmo mínimo. Em situações parecidas no passado, o não-trabalho vinha acompanhando do sentimento de ansiedade.&lt;/p&gt;
-
-&lt;p&gt;Ah, é verdade, ajudei minha namorada com um problema no trabalho dela. Apresentei ela à uma das ferramentas mais poderosas que existem na computação: expressões regulares. Utilizamos &lt;em&gt;regex&lt;/em&gt; para traduzir texto legíveis por humanas em sequências de números testáveis por computador. O problema que ela tinha para resolver é maior que isso, mas o pontapé que a destravou, foi eu que dei. E me senti muito bem fazendo isso.&lt;/p&gt;
-
-&lt;p&gt;Especificamente nestes dias que não consegui me abster de me distrair antes de engatar numa sessão de foco. Antes mesmo de abrir o Word e o Excel, eu já abrira o navegador com a Folha de São Paulo e o Youtube. Definitivamente preciso ser mais estrito neste objetivo.&lt;/p&gt;
-
-&lt;p&gt;Avancei bastante na leitura de &lt;em&gt;Born to Run&lt;/em&gt; do Christopher McDougall. A cada capítulo dá vontade de parar de ler e simplesmente sair correndo por aí. Será que esse ímpeto nunca surfado vai se transformar em quilômetros corridos na São Silvestre?&lt;/p&gt;
-
-&lt;p&gt;Também me peguei pensando que senão todas, algumas importantes vitórias que tive na vida se deram quando eu mergulhei de cabeça nas coisas. Foi assim com mestrado e com a seleção para o meu trabalho atual. Isso converge com a minha sensação de que para eu mudar de carreira, eu preciso &amp;ldquo;take the leap&amp;rdquo; - me jogar. Cada vez mais parece que pedir exoneração para tentar a vida como engenheiro de software é o caminho.&lt;/p&gt;
-
-&lt;p&gt;A ver se a imprudência se traveste de coragem e eu pulo do barco.&lt;/p&gt;
-</description>
+      <description>A primeira semana do ano foi esquisita. Ainda não consegui pegar no tranco em relação ao trabalho, ou, pra ser direto, eu não fiz nenhum trabalho digno do nome trabalho. No entanto, consegui manter a rotina bem saudável: me alimentei bem, me exercitei bem, dormi bem.</description>
     </item>
     
     <item>
@@ -229,121 +107,8 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Sat, 01 Jan 2022 12:48:01 -0300</pubDate>
       
       <guid>/posts/metas-2022/</guid>
-      <description>
-
-&lt;p&gt;Como prometido no post &lt;a href=&#34;https://hastyslacker.github.io/posts/there-and-back-again/&#34;&gt;anterior&lt;/a&gt;, abaixo eu tento ser mais um pouco mais específico sobre as coisas que eu quero fazer neste ano que se inicia hoje.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-recuperar-e-manter-a-capacidade-de-me-concentrar-minimamente-bem-em-atividades&#34;&gt;1. Recuperar e manter a capacidade de me concentrar minimamente bem em atividades&lt;/h2&gt;
-
-&lt;p&gt;Acredito que esta seja minha maior vontade. Sinto que ela tem potencial para espraiar positivamente para os demais aspectos da minha vida. Penso isso porque é notável a melhora no meu humor quando eu termino um dia produtivo.&lt;/p&gt;
-
-&lt;p&gt;Antes de tudo entendo que seja importante definir alguns termos do título desta seção: o que é &amp;lsquo;concentrar&amp;rsquo; e o que é &amp;lsquo;minimamente&amp;rsquo;? Depois precisamos pensar em ações concretas para tentar atingir o objetivo.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Concentrar&lt;/strong&gt;: Realizar (ou avançar na direção de realização) uma única tarefa bem definida sem que a atenção divirja para qualquer outra coisa não-relacionada.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Minimamente&lt;/strong&gt;: uma quantidade razoável de tempo. Pouco tempo é aquilo que é insuficiente para avançar em uma tarefa complexa. Tempo demais é uma quantidade de tempo que não é sustentável a longo prazo. No livro Deep Work (minha resenha está &lt;a href=&#34;https://hastyslacker.github.io/posts/deepwork/&#34;&gt;aqui&lt;/a&gt;), Cal Newport relata que mesmo pessoas bem sucedidas em manter-se concentradas em geral não conseguem manter o foco por mais que 4 horas por dia.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Durante 2021 eu experimentei alguns dias que consegui me manter focado de maneira bem satisfatória. Nesses dias, se bem me recordo, eu fiz algumas coisas:
-- Meu período de trabalho começou logo que acordei. Somente depois de trabalhar eu me dediquei a outras coisas.
-- Não utilizei celular, tablet, televisão ou li notícias antes de realizar todo o trabalho que havia me proposto. Celular ficava no modo avião.
-- Dividi meu período de trabalho em blocos de tempo. Se não me engano, cada bloco tinha cerca de 50min ou 1h de duração. Durante esses blocos, eu não me levantava da cadeira e ficava a todo momento com fones de ouvido tocando algum som ambiente do MyNoise.net.
-- Entre os blocos de trabalho eu realizava pequenas pausas, de cerca de 10 minutos. Lembro que eu buscava ativamente não utilizar essas pausas com atividades que me sugavam a atenção, como por exemplo YouTube e Whatsapp. Se não me falha a memória, após dois blocos de trabalho, eu fazia uma pausa maior, de 30 minutos. Nesta pausa, eu fazia uma sessão de Headspace.
-- Eu iniciava o dia com uma lista de tarefas bem definidas que eu tinha que atacar.
--  A propósito, me recordo também que no livro Deep Work, Cal Newport fala que faz sentido que inclusive agendemos blocos de tempo para fazer coisas que em geral fazemos sem nos programar: por exemplo, ficar à toa na internet, escutar música, tirar uma soneca. Eu acho que isso faz bastante sentido.&lt;/p&gt;
-
-&lt;p&gt;Além do itens citados acima, acredito que eu deva adotar uma abordagem semelhantes às utilizadas para a prática de exercícios e/ou construção de hábitos.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;CONSISTÊNCIA &amp;gt; INTENSIDADE&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Nos dias em que eu não estiver me sentindo bem o suficiente para fazer algumas horas de focos, eu devo tentar, pelo menos, realizar um bloco mínimo para manter o streak.&lt;/p&gt;
-
-&lt;p&gt;E por falar em streak, é preciso bolar uma maneira de anotar diariamente o que fiz e analisar esse histórico com uma frequência regular. Inicialmente eu vou fazer isso por meio de uma planilha simples no Google Sheets mesmo. Depois, quem sabe, eu crie alguma aplicação dedicada.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-terminar-estudo-que-estou-devendo-no-trabalho&#34;&gt;2. Terminar estudo que estou devendo no trabalho&lt;/h2&gt;
-
-&lt;p&gt;Por privacidade, não vou publicar esta seção. Os detalhes dela estão num arquivo offline que utilizarei para guiar esta meta. De qualquer forma, se eu conseguir recuperar minha concentração, este item naturalmente será beneficiado.&lt;/p&gt;
-
-&lt;h2 id=&#34;3-consistência-no-cuidado-com-a-saúde&#34;&gt;3. Consistência no cuidado com a saúde&lt;/h2&gt;
-
-&lt;p&gt;Quando comparo minha saúde atual com meu momento mais ferrado, eu estou muito bem, obrigado. Mas quando comparo com meu melhor momento, eu estou bem aquém. Eu quero voltar pro meu melhor momento. Como fazer tentar fazer isso em 2022?&lt;/p&gt;
-
-&lt;p&gt;Ao longo dos últimos dois anos eu experimentei alguns regimes diferentes de exercício e de alimentação. No front da comida, eu já fiz carnívoro, low carb high fat, high protein low fat, etc. No front do exercício, eu já fiz algumas variações de calistenia (como por exemplo, uma única série até falhar e várias séries sub-falha), treinei com pesos intensamente (squats, deadlifts, benchpress, etc), bem como fui nadador durante alguns períodos da minha vida (o único cardio que eu realmente aprecio).&lt;/p&gt;
-
-&lt;h3 id=&#34;cardio&#34;&gt;Cardio&lt;/h3&gt;
-
-&lt;p&gt;Neste ano que chega eu e minha namorada combinamos de completar a corrida de São Silvestre. São 15km em 31/12/2022. Tenho um ano para treinar. Acredito que é possível. Assim, &lt;strong&gt;já está definido que o principal cardio vai ser corrida&lt;/strong&gt;. Como exatamente vão ser os treinos, eu ainda não faço a menor ideia. É algo que vou descobrir e relatarei aqui.&lt;/p&gt;
-
-&lt;h3 id=&#34;força-e-mobilidade&#34;&gt;Força e Mobilidade&lt;/h3&gt;
-
-&lt;p&gt;Quando se trata de exercício de força, eu tenho gostado bastante da abordagem do &lt;a href=&#34;https://www.youtube.com/user/Kbogea&#34;&gt;Kyle Bogess&lt;/a&gt;. De maneira simplificada, a abordagem que dele é simples:
-- um exercício de pull;
--  um exercício de push e;
--   um exercício para pernas.&lt;/p&gt;
-
-&lt;p&gt;Cada série deve ser executado até uma ou duas repetições antes da falha muscular. O tempo de descanso entre séries deve ser bem longo (quando comparado ao descanso da academia, por exemplo), de cerca de 3 minutos.&lt;/p&gt;
-
-&lt;p&gt;Nos dias que eu não &amp;ldquo;estiver afim&amp;rdquo; eu tenho que fazer uma série de cada exercício. Nos dias normais, 3 séries. Nos dias em que estiver me sentindo ótimo, 5 séries. Gostaria também de &amp;ldquo;logar&amp;rdquo; os exerícios para analisar a evolução ao longo do tempo.&lt;/p&gt;
-
-&lt;p&gt;Esse &amp;ldquo;protocolo&amp;rdquo; (&lt;em&gt;que palavrinha escrota&lt;/em&gt;) possibilita um bom volume de treino, não taxa demais as articulações (algo que o treino com pesos na academia costuma castigar) e não precisa de vários dias de recuperação. Em resumo: volume com fadiga administrável.&lt;/p&gt;
-
-&lt;p&gt;6 dias por semana é a meta.&lt;/p&gt;
-
-&lt;h3 id=&#34;alimentação&#34;&gt;Alimentação&lt;/h3&gt;
-
-&lt;p&gt;Hoje, em 01/01/2022, estou pesando 82.5kg (com 1.70m de altura). Meu objetivo é chegar aos 72kg e me manter por lá. Não vejo muito sentido em colocar um prazo para esta meta.&lt;/p&gt;
-
-&lt;p&gt;Dos modos de alimentação que eu tentei, o que mais funcionou para mim foi low carb high fat. Eu gosto muito de gordura saturada, ela parece ter um efeito bom sobre minha saciedade. Percebi isso quando fiz high protein low fat - eu sentia muita fome e ficava mais propenso a comer bobagens. Acho que não vou fazer carnívoro porque a restrição (embora não me incomode pessoalmente) dificulta muito a vida social. Além disso, como pretendo fazer bastante cardio este ano, acho que a ausência de carbs seria ruim para a performance no curto prazo (a longo prazo, eu acho que o corpo se adapta).&lt;/p&gt;
-
-&lt;p&gt;Não sei muito bem ainda quais carbs eu vou comer. Eu gosto de abóbora e não vejo muito problema em batata-doce. Mas eu estou muito mal informado sobre isso. Algo a se pesquisar. Por ora, não há porque xaropar a salada.&lt;/p&gt;
-
-&lt;p&gt;Um dos meus maiores problemas com a comida são os episódios de &lt;em&gt;binge eating&lt;/em&gt;, ou, em bom português, enfiar o pé na jaca (&lt;em&gt;ô mininu véi esgulepado&lt;/em&gt;). Algumas comidas ativam um monstro dentro de mim. As que consegui identificar são: amendoins, ervilha com wasabi, pão de queijo, chipa de queijo, pizza e massas em geral. Devo correr delas como o diabo corre da cruz.&lt;/p&gt;
-
-&lt;p&gt;Finalmente, acho que posso reintroduzir o chocolate 90% como sobremesa (tem que ser Lindt, apesar de caro - as outras marcas parecem colocar muitos ingredientes escondidos). E não pretendo beber refrigerante (mesmo os zeros) este ano - eles são uma espécie de muleta alimentar. Preciso me libertar.&lt;/p&gt;
-
-&lt;h2 id=&#34;4-diversão-sem-bebida&#34;&gt;4. Diversão sem bebida&lt;/h2&gt;
-
-&lt;p&gt;Minha namorada decidiu tentar não beber este ano. Para ela, a bebida é um problema não por causa da bebida em si, mas porque, ao beber, ela sai da dieta, acaba comendo bobagem e isso joga por terra os esforços de consistência da bixinha.&lt;/p&gt;
-
-&lt;p&gt;Eu decidi tentar não beber também. Não acho que eu tenha um problema &lt;strong&gt;grave&lt;/strong&gt; com álcool - eu consigo passar semanas e até meses sem beber, mas quando eu bebo, em geral eu bebo até ficar bem louco. Eu sempre entreti a ideia  de passar um ano sem beber - só para ver como é que é - e agora calhou de ter companhia. Então aqui estamos.&lt;/p&gt;
-
-&lt;p&gt;Meu maior problema com deixar de beber são as ocasiões sociais. Eu sou um cara sociável, mas não muito. Sem dúvidas, sair para uma festinha e/ou encontro com amigos, me faz ter vontade de beber. Eu não me acho interessante (nem acho os outros muito interessantes) sem bebida. Não sei bem como vou lidar com isso. Vai ter que ser um apredizado &lt;em&gt;on the fly&lt;/em&gt;. Vamos ver no que isso vai dar.&lt;/p&gt;
-
-&lt;p&gt;Adicionalmente, eu já quase nunca fumo maconha nem cigarro. Então esse ano eu decidi que não vou fumar também. Talvez depois da São Silvestre.&lt;/p&gt;
-
-&lt;h2 id=&#34;5-engenharia-de-software&#34;&gt;5. Engenharia de Software&lt;/h2&gt;
-
-&lt;p&gt;Já há algum tempo eu tenho esse sentimento de que seria bom para mim mudar de carreira. Finanças tem se tornado um assunto chato e me pego cada vez mais lendo sobre programação e engenharia de software. Como postei uns meses atrás, eu cheguei até a solicitar uma licença para tentar mudar de carreira. Mas não rolou.&lt;/p&gt;
-
-&lt;p&gt;Meu conservadorismo me impede de largar tudo para tentar a nova carreira. Assim, o razoável é procurar no meu ramo de atuação (e no pessoal) situações em que eu possa lapidar minhas habilidades de programação. E aqui tenho três ideias.&lt;/p&gt;
-
-&lt;h3 id=&#34;aplicação-para-acompanhar-patrimônio&#34;&gt;Aplicação para acompanhar patrimônio&lt;/h3&gt;
-
-&lt;p&gt;Quero escrever um programa que me permita imputar meus mais diversos investimentos e desinvestimentos e me retornar o valor atual do meu patrimônio, bem como diversas visualizações pertinentes.&lt;/p&gt;
-
-&lt;h3 id=&#34;aplicação-para-acompanhar-hábitos&#34;&gt;Aplicação para acompanhar hábitos&lt;/h3&gt;
-
-&lt;p&gt;Quero escrever um programa que me permita, com uma frequência customizável, imputar meu sucesso/insucesso em cumprir coisas (por exemplo, malhar, não beber, não fumar) e visualizar isso de algumas formas diferentes.&lt;/p&gt;
-
-&lt;h3 id=&#34;aplicação-para-baixar-informações&#34;&gt;Aplicação para baixar informações&lt;/h3&gt;
-
-&lt;p&gt;Quero escrever um programa que recorrentemente faça download de arquivos do portal de dados abertos do órgão que trabalho, impute as informações em um banco de dados e rode algumas checagens básicas em busca de inconsistências.&lt;/p&gt;
-
-&lt;p&gt;Qual tech stack eu deveria usar para escrever esses programas? Algum framework de JavaScript? Ou Django - com SQLite ou Postgresql e Python? &lt;em&gt;Acho que essa é a oportunidade perfeita para aprender um web framework&lt;/em&gt;. Django, here we go!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&#34;extras&#34;&gt;Extras&lt;/h2&gt;
-
-&lt;p&gt;Abaixo são algumas coisas que quero fazer mas não cheguei a pensar muito sobre elas. As colocarei aqui somente para explicitá-las e revisitar a listinha de tempos em tempos.
-- Completar o CS50 da edX
-- Criar uma seção neste site para arquivar relatos sobre a semana que passou. Idealmente escrever isso na sexta ou sábado à tarde
-- Adicionar itens a esta lista.&lt;/p&gt;
-
-&lt;p&gt;Por ora, é isto.&lt;/p&gt;
-</description>
+      <description>Como prometido no post anterior, abaixo eu tento ser mais um pouco mais específico sobre as coisas que eu quero fazer neste ano que se inicia hoje.
+1. Recuperar e manter a capacidade de me concentrar minimamente bem em atividades Acredito que esta seja minha maior vontade.</description>
     </item>
     
     <item>
@@ -352,44 +117,7 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Wed, 22 Dec 2021 20:05:12 -0300</pubDate>
       
       <guid>/posts/there-and-back-again/</guid>
-      <description>
-
-&lt;h1 id=&#34;2021&#34;&gt;2021&lt;/h1&gt;
-
-&lt;p&gt;Faz tempo que não escrevo umas linhas neste remoto canto da internet que chamo de meu. Não sei bem o porquê disso. Para falar a verdade, de modo geral, faz tempo que não faço nada que me remeta à sensação de orgulho ou dever cumprido.&lt;/p&gt;
-
-&lt;p&gt;Quando comecei este site/blog, minha ideia era fazer do exercício de escrita uma recorrência que me ajudasse a reativar minha mente, fazer o cerebelo pegar no tranco e, quem sabe, sair da inércia que me assola desde que mudei de área no trabalho (pra ser sincero, talvez esta inércia me acompanhe desde sempre).&lt;/p&gt;
-
-&lt;p&gt;Funcionou durante algum tempo e produzi alguns posts. Uns foram resenhas de livros que li, outros tratavam de planos e um especificamente tratava do cancelamento de um plano por motivos alheios a mim (meu chefe que negou uma licença). No entanto, antes do meio do ano, o negócio perdeu impulso. E embora eu tenha pensado quase que diariamente &amp;ldquo;caramba, eu podia escrever um negócio pro site&amp;rdquo;, eu nunca o fiz. Até agora, é claro.&lt;/p&gt;
-
-&lt;p&gt;Escrevo estas linhas do aeroporto enquanto espero um vôo atrasado que, se tudo correr bem, me levará à minha família para que passemos o natal juntos. Estou com sono e cansado e o final do ano tem me feito refletir mais sobre o que não tenho feito, sobre o que quero fazer e como fazer.&lt;/p&gt;
-
-&lt;p&gt;Agora, por exemplo, eu quero parar de escrever. Não sei bem porque. Meu impulso é pegar o celular e me distrair com qualquer coisa que a internet jogue em minha direção. Um vídeo sobre tecnologia, ou algo sobre animais bonitinhos, um review de um jogo complexo que provavelmente nunca jogarei ou mesmo mensagens de amigos no whatsapp.&lt;/p&gt;
-
-&lt;p&gt;Essa necessidade de me distrair, essa incapacidade de manter-me atento a uma única atividade durante um período minimamente decente de tempo (sei lá, uma ou duas horas) me deixa muito irritado. Primeiro porque a mudança de contexto (&lt;em&gt;context switching&lt;/em&gt; - não sei se existe uma tradução mais adequada) parece fazer surgir uma ansiedade generalizada - e a ansiedade é a ausência de paz e eu gosto de paz. Segundo porque eu não consigo aprender as coisas da maneira que acredito que elas devem ser aprendidas. Aprender é uma das coisas que mais me dá prazer. Me pergunto se eu gostaria de ensinar.&lt;/p&gt;
-
-&lt;p&gt;Neste ano eu não consegui levar a cabo nenhuma das tentativas mais longas de aprendizado que tive. Comecei no edX o curso &amp;ldquo;CS50 - Introdução à Ciência da Computação&amp;rdquo; e, apesar de adorá-lo, não cheguei ao fim. Comecei também a resolver os problemas do Project Euler utilizando Python, mas não cheguei ao número 10. Li bastante sobre blockchains, em especial sobre a rede Cardano, e, embora tenha colocado um bom dinheiro ali, não cheguei a experimentar nenhum tipo de desenvolvimento. No &lt;em&gt;front&lt;/em&gt; profissional, eu simplesmente não trabalhei a maior parte do ano. Se meu empregador fosse sério, eu teria grandes chances de ter sido demitido.&lt;/p&gt;
-
-&lt;p&gt;Mas 2021 não foi um ano só de coisas ruins. Na verdade não dá nem para chamar ele de ruim - foi um ano que me pus estático demais. Coisas boas aconteceram. O meu relacionamento amadureceu bastante, eu consigo falar &amp;lsquo;eu te amo&amp;rsquo; frequentemente (algo que por vezes achei que nunca conseguiria fazer), em breve vou morar com minha namorada e estou bem animado com isso. Não é que eu ache que não possa dar errado. É claro que pode dar. &amp;ldquo;Pra morrer basta estar vivo&amp;rdquo;. Mas pela primeira vez na vida estou disposto a tentar algo sem tentar antecipar demais o que pode acontecer. Vamos fazendo e vamos reagindo conforme as coisas forem acontecendo.&lt;/p&gt;
-
-&lt;h1 id=&#34;2022&#34;&gt;2022&lt;/h1&gt;
-
-&lt;p&gt;E para o ano que vem? O que eu quero? Abaixo identifico alguns objetivos gerais que pretendo especificar melhor em outro post (promessas&amp;hellip;).&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Fist and foremost&lt;/em&gt; eu quero recuperar a capacidade de me concentrar minimamente bem para realizar tarefas, leituras, coisas em geral. Não quero mais ser refém da distração instantânea que a internet provê. Esse me parece um jogo difícil de ser vencido, mas acho que é possível e parece um desafio que vale a pena. É impressionante o quanto meu humor melhora quando eu consigo trabalhar bem em determinado dia.&lt;/p&gt;
-
-&lt;p&gt;Em segundo lugar, eu preciso acabar o estudo pelo qual estou responsável. Isso não é algo que será bom só para mim. Na verdade é uma responsabilidade minha com outras pessoas. Ou seja, não é somente querer, mas dever. Tenho até o final de março para fazer isso. Idealmente, quero entrar em março com ele terminado.&lt;/p&gt;
-
-&lt;p&gt;Em terceiro, eu quero que o meu cuidado com a saúde (ou seja, alimentação, exercício e sono) seja mais consistente. Se me comparar comigo em minha época menos saudável, eu até que estou muito bem. Mas se a comparação for com minha época mais saudável, em 2021 eu deixei a peteca cair. Há margem para melhorar. É preciso enfiar menos o pé na jaca com comilanças desenfreadas e ser mais consistente com os exercícios (a propósito, eu quero ficar com o shape semelhante ao K Boges).&lt;/p&gt;
-
-&lt;p&gt;Em quarto lugar, eu gostaria de aprender a me divertir socialmente sem precisar consumir bebidas alcoólicas. Confesso que este é um objetivo ousado. Eu não gosto muito de situações sociais, especialmente se envolverem pessoas com quem eu não tenho intimidade e se também forem barulhentas e &amp;ldquo;superlativas&amp;rdquo; (nem eu entendi bem o que quis dizer com isso). Eu não faço a menor ideia de como fazer isso - a não ser na força do ódio.&lt;/p&gt;
-
-&lt;p&gt;Finalmente, embora não diga respeito só à mim, eu quero criar um lar com minha namorada. Um lugar confortável, com um gatinho e um doguinho, um cantinho em que moradores e frequentadores possam encontrar um pouso para se preparar para enfrentar a vida que está sempre aí.&lt;/p&gt;
-
-&lt;h1 id=&#34;lá-vamos-nós&#34;&gt;Lá vamos nós&lt;/h1&gt;
-
-&lt;p&gt;Gostei de ter escrito estas linhas. Não escrevi tudo de uma vez - comecei na quarta e as estou terminando na quinta. Quebrar a inércia é ótimo. Conseguir que o movimento seja inercial é difícil. Será que eu vou conseguir? Sem querer ser pessimista demais: &lt;em&gt;we&amp;rsquo;ll see&lt;/em&gt;.&lt;/p&gt;
-</description>
+      <description>2021 Faz tempo que não escrevo umas linhas neste remoto canto da internet que chamo de meu. Não sei bem o porquê disso. Para falar a verdade, de modo geral, faz tempo que não faço nada que me remeta à sensação de orgulho ou dever cumprido.</description>
     </item>
     
     <item>
@@ -398,179 +126,7 @@ These are the only things you need to do to be successful. You can get away with
       <pubDate>Sun, 16 May 2021 08:37:01 -0300</pubDate>
       
       <guid>/posts/deepwork/</guid>
-      <description>
-
-&lt;p&gt;Neste post resenho o livro &lt;a href=&#34;https://www.amazon.com.br/Deep-Work-Focused-Success-Distracted/dp/1455586692/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=deep+work&amp;amp;qid=1621165487&amp;amp;sr=8-2&#34;&gt;Deep Work: Rules for Focused Sucesse in a Distracted World&lt;/a&gt;, escrito por &lt;a href=&#34;https://en.wikipedia.org/wiki/Cal_Newport&#34;&gt;Cal Newport&lt;/a&gt;. Tomei conhecimento do autor e de seu trabalho por meio do podcast do &lt;a href=&#34;https://twitter.com/lexfridman&#34;&gt;Lex Fridman&lt;/a&gt;. A conversa entre eles está &lt;a href=&#34;https://youtu.be/y3Umo_jd5AA&#34;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Trata-se de uma leitura fluida e agradável, bem como recheado de referência sem se tornar maçante. Contém uma boa discussão sobre a natureza do trabalho focado bem como várias medidas &amp;ldquo;acionáveis&amp;rdquo; e aplicáveis a diversos cenários de trabalho. Leitura recomendada.  Ele é dividido em duas partes: A ideia e As regras.&lt;/p&gt;
-
-&lt;h1 id=&#34;1-a-ideia&#34;&gt;1. A ideia&lt;/h1&gt;
-
-&lt;p&gt;Nesta parte do livro, Cal Newport explica porque a ideia de foco profundo no trabalho é pertinente. Ele divide a argumentação em três afirmações - os títulos dos capítulos - e as desenvolve por meio de histórias e referências.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-1-trabalho-focado-é-valioso&#34;&gt;1.1 Trabalho focado é valioso&lt;/h2&gt;
-
-&lt;p&gt;A partir do trabalho de dois economistas, Brynjolfsson e McAfee, que estudam mercado de trabalho, Cal Newport parte do pressuposto que três tipos de personagens serão os &amp;ldquo;vencedores&amp;rdquo; no mercado de trabalho do futuro (ou até do presente). São eles: trabalhadores altamente capacitados, os &lt;em&gt;superstars&lt;/em&gt; e os donos de capital.&lt;/p&gt;
-
-&lt;p&gt;Uma vez que a maioria das pessoas, por definição, não são &lt;em&gt;superstars&lt;/em&gt; e tampouco donos de capital, resta a elas se tornarem trabalhadores altamente capacitados. Mas o que é um trabalhador altamente capacitado?&lt;/p&gt;
-
-&lt;p&gt;Cal define um trabalhador altamente capacitado como sendo alguém que tem duas habilidades primordiais:
-- Rapidamente tornar-se exímio em coisas difíceis.
-- Produzir em nível de elite, tanto em qualidade quanto em velocidade.&lt;/p&gt;
-
-&lt;p&gt;Para aprender as habilidades acima precisamos, primeiro, aprender o trabalho focado. Isto porque a maneira mais efetiva de aprender uma habilidade é a prática deliberada dela. E os componentes da prática deliberada são: foco intenso no que se está tentando aprender e um mecanismo de retroalimentação que permita você corrigir erros ou manter atenção naquilo que de fato é desejável.&lt;/p&gt;
-
-&lt;p&gt;O foco profundo e sem distrações facilita o aprendizado porque nesse estado o cérebro consegue isolar e reforçar de maneira mais efetiva os circuitos neuronais relacionados ao objeto de foco. Adicionalmente, o foco em uma única tarefa bem definida impede que sua mente contenha resíduos de outras tarefas, afetando sua atenção. Estudos citados no capítulo demonstraram que a performance de uma pessoa cai se ela tem resíduos de outras tarefas na sua mente - em especial se esses resíduos são relacionados a tarefas inacabadas.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-2-trabalho-focado-é-raro&#34;&gt;1.2 Trabalho focado é raro&lt;/h2&gt;
-
-&lt;p&gt;Neste capítulo o autor argumenta que, embora o trabalho focado seja valioso para organizações, ele é raro nas mesmas.&lt;/p&gt;
-
-&lt;p&gt;Um dos motivos pelos quais isso acontece é o fato da vida corporativa ser abarrotada de interrupções e o custo dessas interrupções ser de difícil visualização, em especial quando se trata de ocupações intelectuais.&lt;/p&gt;
-
-&lt;p&gt;Embora a visualização e a mensuração desse custo seja difícil, as pessoas ainda sentem que distrações constantes são deletérias tanto para produtividade quando para satisfação pessoal.&lt;/p&gt;
-
-&lt;p&gt;Porque então as pessoas continuam com esse &lt;em&gt;modus operandi&lt;/em&gt; cheio de distrações? Bem, porque é fácil. Uma vez que é difícil medir os efeitos da distração, é mais fácil seguir evitando o custo da concentração e do trabalho focado (que são custos de curto prazo) em favor dos custos de longo prazo do trabalho raso.&lt;/p&gt;
-
-&lt;p&gt;Adicionalmente, uma vez que é difícil demonstrar a efetividade do trabalho intelectual, é comum que as pessoas busquem mostrar que de fato estão trabalhando estando sempre disponíveis e respondendo emails (ou outra forma de comunicação) rapidamente - uma vez que isto é &amp;ldquo;visível&amp;rdquo;. Isso acontece a despeito de que &lt;strong&gt;extrair valor de informações acontece, em geral, quando você não está &amp;ldquo;ocupado estando disponível&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;A internet, aparentemente, só piorou os três efeitos listados acima. O trabalho focado, embora possa se beneficiar da riqueza de conhecimento disponível na internet, é frequentemente prejudicado pela frequência de novidades desta.&lt;/p&gt;
-
-&lt;h2 id=&#34;1-3-trabalho-focado-é-significativo&#34;&gt;1.3 Trabalho focado é significativo&lt;/h2&gt;
-
-&lt;p&gt;Este capítulo tem como foco argumentar que o trabalho focado é uma maneira efetiva de alcançar uma vida com sentido.&lt;/p&gt;
-
-&lt;p&gt;O autor destaca a seguinte citação de &lt;a href=&#34;https://en.wikipedia.org/wiki/Matthew_Crawford&#34;&gt;Mathew Crawford&lt;/a&gt;:
-&amp;gt;The satisfactions of manifesting oneself concretely in the world through manual competence have been know to make a man quiet and easy.&lt;/p&gt;
-
-&lt;p&gt;Cal então se pergunta: será que essa sensação de aplica ao trabalho intelectual?&lt;/p&gt;
-
-&lt;p&gt;Ele argumenta que mais importante do que o trabalho feito é a qualidade da atenção que dispensamos a este trabalho. Assim, embora a atenção seja um pré-requisito para a realização de um bom trabalho, em certa medida, a atenção é também um fim em si mesma.&lt;/p&gt;
-
-&lt;p&gt;A atenção continuada, para além de permitir a realização de um bom trabalho, retira atenção de coisas pequenas e potencialmente irritantes. Talvez ela simplesmente dificulte que entremos em espiral quando prestamos atenção no que está dando errado na nossa vida.&lt;/p&gt;
-
-&lt;p&gt;Filosoficamente o autor argumenta que o trabalho focado permite que cultivemos certo nível de admiração pelo sagrado que fica perdido no trabalho raso. Não é que o trabalho focado crie um significado sagrado para as coisas que fazemos - ele de fato só requer um nível de perícia que parece clarificar características profundas e sutis que parecem dar um sentido maior às coisas e à vida.&lt;/p&gt;
-
-&lt;h1 id=&#34;2-as-regras&#34;&gt;2. As regras&lt;/h1&gt;
-
-&lt;p&gt;Nesta segunda parte Cal Newport provê as regras efetivas que ajudam uma pessoa a alcançar o trabalho focado.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-1-trabalhando-com-foco&#34;&gt;2.1 Trabalhando com foco&lt;/h2&gt;
-
-&lt;p&gt;Neste capítulo o autor destaca quatro filosofias distintas de trabalho focado:
-- Filosofia monástica
-- Filosofia bimodal
-- Filosofia rítmica
-- Filosofia jornalística&lt;/p&gt;
-
-&lt;h3 id=&#34;a-filosofia-monástica&#34;&gt;A Filosofia monástica&lt;/h3&gt;
-
-&lt;p&gt;Esta filosofia busca maximizar o período de trabalho focado ao minimizar de maneira extrema as distrações ou tarefas rasas. Praticantes desta vertente tendem a ter um objetivo profissional altamente específico e valorizado - o sucesso profissional depende tão somente deste único objetivo. Trata-se de uma filosofia pouco aplicável para a maioria das pessoas. É o caso de pessoas que sequer tem email ou que dispõem de um assistente pessoal para filtrar mensagens desimportantes. Um dos exemplos usados no livro é o lendário cientista da computação &lt;a href=&#34;https://en.wikipedia.org/wiki/Donald_Knuth&#34;&gt;Donald Knuth&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-filosofia-bimodal&#34;&gt;A Filosofia Bimodal&lt;/h3&gt;
-
-&lt;p&gt;Esta filosofia busca dedicar uma parte do tempo para o trabalho focado e outro período de tempo para todo o resto. Durante os períodos de trabalho focado, a pessoa se comporta de maneira monástica, ignorando tudo aquilo que não é o trabalho focado. Durante o outro período, não há necessidade de foco.&lt;/p&gt;
-
-&lt;p&gt;Essa divisão pode acontecer em diferentes escalas de tempo: semestres, meses ou semanas (mas não dias). Os exemplos utilizados são professores universitários que concentram suas aulas em determinados períodos do ano, bem como escritores que se isolam para focar no desenvolvimento de um livro.&lt;/p&gt;
-
-&lt;h3 id=&#34;a-filosofia-rítmica&#34;&gt;A filosofia rítmica&lt;/h3&gt;
-
-&lt;p&gt;Esta filosofia postula que a maneira mais efetiva de começar a ter sessões consistentes de trabalho focado é gerar um ritmo que retira a necessidade de decidir quando e como investir a energia necessária para focar no trabalho.&lt;/p&gt;
-
-&lt;p&gt;Os personagens que exemplificam esta filosofia são os típicos funcionários de escritório, que sparam um turno para focar no trabalho de fato enquanto concentram reuniões e outras atividades num turno diverso. Este também parece ser o caso de pais com crianças pequenas, que escolhem focar no período em que as crianças estão dormindo. &lt;strong&gt;A propósito, esta parece ser a filosofia mais adequada à minha situação.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;a-filosofia-jornalística&#34;&gt;A filosofia jornalística&lt;/h3&gt;
-
-&lt;p&gt;Esta filosofia postula que o momento do trabalho focado deve ser qualquer tempo disponível no meio de um dia a dia cheio de distrações. Ela busca emular um comportamento comum de jornalistas bem sucedidos - que entre apurações e o dia a dia da redação conseguem escrever livros profundos e bem pesquisados. Não é, portanto, uma filosofia para novas do trabalho focado.&lt;/p&gt;
-
-&lt;h3 id=&#34;dicas-de-implementação&#34;&gt;Dicas de implementação&lt;/h3&gt;
-
-&lt;h4 id=&#34;rituais&#34;&gt;Rituais&lt;/h4&gt;
-
-&lt;p&gt;Para aproveitar o máximo das suas sessões de trabalho focado, crie regras e as siga, por mais curiosas que possam parecer. Esses rituais devem ter como objetivo diminuir as fricções que são geradas quando se tenta entrar num estado de trabalho focado.
-- Onde trabalhar e por quanto tempo?
-- Uma vez que você começou a trabalhar, como você vai trabalhar? (Por exemplo, você vai usar a internet? Você vai escrever um número mínimo de palavras?)
-- Como você vai sustentar o trabalho focado?&lt;/p&gt;
-
-&lt;h4 id=&#34;disciplina&#34;&gt;Disciplina&lt;/h4&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Foque no que é eminentemente importante.&lt;/li&gt;
-&lt;li&gt;Se basei em medidas prospectivas (ao invés de retrospectivas).&lt;/li&gt;
-&lt;li&gt;Mantenha um placar&lt;/li&gt;
-&lt;li&gt;Crie uma cadência de avaliação/responsabilização&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h4 id=&#34;seja-preguiçoso&#34;&gt;Seja preguiçoso&lt;/h4&gt;
-
-&lt;p&gt;Manter períodos onde a mente está ociosa é um ativo no enfrentamento de questões difíceis. Há diversas situações onde o cérebro desfocado se sai melhor do que o cérebro extremamente focado. Adicionalmente, períodos sem foco são necessários para recuperar a capacidade de conseguir manter o foco sustentado durante períodos de tempo.&lt;/p&gt;
-
-&lt;h4 id=&#34;saiba-terminar-o-dia-de-trabalho-de-maneira-explícita&#34;&gt;Saiba terminar o dia de trabalho de maneira &lt;strong&gt;explícita&lt;/strong&gt;&lt;/h4&gt;
-
-&lt;p&gt;Quando você acaba o dia de trabalho de maneira explícita, sua mente consegue se recuperar de maneira mais efetiva para o próximo dia. Uma vez que, antes de terminar o dia, você planeja de maneira ampla seu próximo dia, sua mente consegue deixar aquilo de lado e realmente relaxar.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-2-abrace-o-tédio&#34;&gt;2.2 Abrace o tédio&lt;/h2&gt;
-
-&lt;p&gt;Neste capítulo, Cal destaca que manter o foco em uma atividade é um habilidade que requer treino. Muito embora esta pareça uma afirmação óbvia, parece ser comum que as pessoas achem que ter foco é um hábito semelhante à usar o fio dental: você sabe como fazer, você só deixa de fazer poque não está motivado. Este pensamento ignora as horas de prática e esforço que fortalecem o &amp;ldquo;músculo mental&amp;rdquo;.&lt;/p&gt;
-
-&lt;p&gt;O pensamento acima tem um corolário: o esforço para melhorar seu foco vai sofrer revés se, ao mesmo tempo, você não afastar sua mente da dependência da distração. O autor argumenta que se a cada momento de tédio você já se utiliza de meios como a internet do smartphone, o benefício das horas de foco pode ser muito diminuído. Ele passa então a dar dicas para alcançar dois objetivos: aumentar a habilidade de manter um foco intenso e evitar o desejo por distração.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Não tenho intervalos da distração. Tenha intervalos do foco.&lt;/strong&gt; Aloque períodos precisos para uso da internet (estes períodos podem ser longos ou até mesmo frequentes - o ponto é não usar a internet nos períodos que não sejam explicitamente dedicados a ela).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Com alguma frequência, eleja uma tarefa para se completada num prazo desafiador.&lt;/strong&gt; E então uitilize todo o seu foco para cumprir este prazo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Medite produtivamente.&lt;/strong&gt; Tente alocar períodos de tempo nos quais você pensa a respeito de questões importantes durante atividades mundanas (caminhadas, idas ao supermercado, etc).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Memorize um conjunto de cartas.&lt;/strong&gt; &lt;em&gt;Esse aqui achei viagem.&lt;/em&gt; Ele ensina algumas técnicas utilizadas por &amp;ldquo;campeões de memória&amp;rdquo; para memorizar cartas em qualquer ordem. Talvez valha a pena revisitar as dicas um dia.&lt;/p&gt;
-
-&lt;h2 id=&#34;2-3-saia-das-mídias-sociais&#34;&gt;2.3 Saia das mídias sociais&lt;/h2&gt;
-
-&lt;p&gt;Neste capítulo, como o título acusa, Cal Newport argumenta que a maioria das pessoas deve simplesmente deixar as redes sociais.&lt;/p&gt;
-
-&lt;p&gt;Parece ser consenso que redes sociais fragmentam nossa atenção e tornam mais difícil que consigamos nos concentrar. Adicionalmente, parece que como seres humanos, estamos subequipados para enfrentar a situação de manter o uso das redes e ainda assim mantermos foco e capacidade de trabalhar focado.&lt;/p&gt;
-
-&lt;p&gt;É preciso reconhecer que, embora redes sociais possam provar &lt;strong&gt;algum&lt;/strong&gt; benefício para seus usuários, em geral o custo em muito ultrapassa esses benefícios. Cal argumenta que a possibilidade de um benefício não deve ser a causa porque usamos uma ferramenta como as redes sociais. Precisamos levar em conta também os contras - que neste caso específico, são muitos.&lt;/p&gt;
-
-&lt;p&gt;Ao invés de utilizar qualquer ferramenta que provenha um benefício, devemos antes identificar os principais fatores que determinam sucesso e felicidade na nossa vida profissional e pessoal. Então devemos adotar ferramentas cujos benefícios em muito ultrapassem os custos (&lt;em&gt;spoiler alert: dificilmente redes sociais passam no sarrafo&lt;/em&gt;).&lt;/p&gt;
-
-&lt;p&gt;Obviamente, identificar os fatores que são determinantes para o sucesso não se resume a uma fórmula batida. É um exercício que requer experimentação, prática e, por vezes, correção de rumo.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;É preciso identificar as principais metas de alto nível da nossa vida pessoal e profissional.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Uma vez identificadas as metas, devemos tentar identificar as duas ou três atividades mais importantes que ajudem a alcançarmos as metas. Essas atividades devem ser específicas o suficiente para que possamos nos enxergar fazendo-as e também gerais o suficiente para que não sejam atividades avulsas que se faz uma vez na vida.&lt;/p&gt;
-
-&lt;p&gt;Cal argumenta que não devemos utilizar a internet para entretenimento. Ou pelo menos, quando fizermos, que o façamos de maneira deliberada. O ponto aqui é evitarmos que sejamos capturados pelo inúmeros mecanismos que o conteúdo da internet tem de levar você de um ponto ao outro - em geral, pontos de pouco valor no longo prazo, mas de rápido entretenimento sem significado (twitter, sites como buzzfeed, facebook, etc.). &lt;strong&gt;Devemos ser deliberados sobre como vamos aproveitar nosso tempo livre.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Cal reconhece o argumento de que estruturar o tempo livre pode nos levar a pensar que o propósito do tempo livre está, então, derrotado. Mas este não parece ser o caso da experiência do autor. Manter-se ativo e estimulado - com atividades significativas e deliberadas, mas distintas do trabalho - parece ser uma ótima maneira de &amp;ldquo;energizar o espírito humano&amp;rdquo;, em especial, quando comparado com atividades de surfar na web a esmo (e aqui eu tenho que concordar).&lt;/p&gt;
-
-&lt;h2 id=&#34;2-4-apare-as-arestas&#34;&gt;2.4 Apare as arestas&lt;/h2&gt;
-
-&lt;p&gt;Nesta última regra, Cal Newport argumenta que o último passo para que alcancemos o objetivo de trabalhar com foco é minimizar o trabalho raso.&lt;/p&gt;
-
-&lt;p&gt;Primeiro é preciso reconhecer que o trabalho raso que parece permear a maior parte do tempo do trabalhador intelectual é muito menos vital do que parece ser.&lt;/p&gt;
-
-&lt;p&gt;No entanto, embora o valor do trabalho focado em muito ultrapasse o valor do trabalho raso, isso não significa que temos que quixotescamente eliminar qualquer trabalho raso das nossas vidas. De fato, devemos apenas minimizá-lo. Adicionalmente, o trabalho focado é exaustivo e é impossível que consigamos dedicar o dia inteiro, todos os dias, para o trabalho focado.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;É razoável supor que 4 horas de trabalho focado por dia é o máximo que conseguimos fazer (isso no melhor dos cenários).&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Como estratégias para alcançar o objetivo de minimizar o trabalho raso, o autor recomenda:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Agende todos os períodos do nosso dia (possivelmente em blocos de meia hora).&lt;/strong&gt;
-A ideia aqui é que precisamos tratar nosso tempo com respeito. Não devemos ser sempre levados com a maré das circunstâncias.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Quantifique a profundidade de cada atividade&lt;/strong&gt;
-Saiba dizer se uma atividade requer trabalho focado ou não. (uma heurística para ajudar nessa definição é: eu conseguiria treinar alguém em alguns meses para fazer esta tarefa?)&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Defina o máximo de trabalho raso que você vai fazer&lt;/strong&gt; (afinal você ainda tem que responder emails e participar de algumas reuniões). Explicitar isso facilita planejamento.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Termine seu trabalho às 17h30.&lt;/strong&gt;
-A ideia é que colocando um limite explícito para o fim do seu horário de trabalho, você vai adaptar o resto do seu dia à essa restrição. Isso é um incentivo poderoso para que você não fique &amp;ldquo;panguando&amp;rdquo;.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;Torne-se indisponível.&lt;/strong&gt;
-Faça as pessoas entenderem que seu tempo não pode ser dominado por elas. Responda seus emails com passos acionáveis e sem muita brecha para bate-papo fútil. Ou, se não valer a pena (e não for lhe causar problemas), simplesmente não responda aos emails.&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Neste post resenho o livro Deep Work: Rules for Focused Sucesse in a Distracted World, escrito por Cal Newport. Tomei conhecimento do autor e de seu trabalho por meio do podcast do Lex Fridman. A conversa entre eles está aqui.</description>
     </item>
     
     <item>
@@ -579,21 +135,7 @@ Faça as pessoas entenderem que seu tempo não pode ser dominado por elas. Respo
       <pubDate>Sun, 25 Apr 2021 11:21:14 -0300</pubDate>
       
       <guid>/posts/math-typesetting/</guid>
-      <description>&lt;p&gt;Uma das coisas que estava no meu &lt;em&gt;backlog&lt;/em&gt; relacionado a este site era configurar direitinho alguma forma de fazer com que fórmulas matemáticas fossem mostradas com a qualidade devida. Durante o mestrado eu tive contato com $\LaTeX$ e, quem já teve contato sabe, &lt;em&gt;once you go in, you can never go out&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Pesquisando a respeito, achei este &lt;a href=&#34;https://geoffruddock.com/math-typesetting-in-hugo/&#34;&gt;post&lt;/a&gt; aqui sobre como implementar essa &lt;em&gt;feature&lt;/em&gt; de maneira que funcionasse direitinho com o &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; e a escrita de posts em &lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34;&gt;Markdown&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Em resumo, existe esse &lt;em&gt;display engine&lt;/em&gt; chamado &lt;a href=&#34;https://www.mathjax.org/&#34;&gt;Mathjax&lt;/a&gt; que consegue fazer fórmulas matemáticas serem facilmente renderizadas em qualquer website. De maneira concreta, você só tem que adicionar ao seu site algumas tags com um Javascript e, na hora de escrever o conteúdo da página, utilizar os marcadores relevantes (tipicamente você tem que envolver as fórmulas entre \$).&lt;/p&gt;
-
-&lt;p&gt;Como uso Hugo para criar o site, algumas configurações adicionais tem de ser feitas. Tudo explicado direitinho no post citado acima. O javascript você tem que adicionar em um &lt;a href=&#34;https://gohugo.io/templates/partials/&#34;&gt;partial&lt;/a&gt; e ajustar o CSS do tema utilizado.&lt;/p&gt;
-
-&lt;p&gt;As fórmulas podem tanto ser &lt;em&gt;inline&lt;/em&gt;, como esta: $f&amp;rsquo;(x) = \frac{\partial f(x)}{\partial x}$, quanto em &lt;em&gt;display&lt;/em&gt;, como esta:&lt;/p&gt;
-
-&lt;p&gt;$$f(x) = \frac{1}{\sigma\sqrt{2\pi}}
-  \exp\left( -\frac{1}{2}\left(\frac{x-\mu}{\sigma}\right)^{2}\right)$$&lt;/p&gt;
-
-&lt;p&gt;Agora só falta mesmo arranjar conteúdo que justifique o uso deste cosméstico.&lt;/p&gt;
-</description>
+      <description>Uma das coisas que estava no meu backlog relacionado a este site era configurar direitinho alguma forma de fazer com que fórmulas matemáticas fossem mostradas com a qualidade devida. Durante o mestrado eu tive contato com $\LaTeX$ e, quem já teve contato sabe, once you go in, you can never go out.</description>
     </item>
     
     <item>
@@ -602,288 +144,81 @@ Faça as pessoas entenderem que seu tempo não pode ser dominado por elas. Respo
       <pubDate>Wed, 21 Apr 2021 09:24:10 -0300</pubDate>
       
       <guid>/posts/ritual/</guid>
-      <description>&lt;p&gt;Depois que acabei a leitura de &lt;a href=&#34;https://hastyslacker.github.io/posts/12-rules-for-life/&#34;&gt;12 Rules for life&lt;/a&gt; e Deep Work, tive duas semanas de trabalho extremamente produtivas. Em cada um dos dias dessas semanas, consegui colocar cerca de 3h de foco extremo nas atividades que eu me propus a fazer.&lt;/p&gt;
-
-&lt;p&gt;Infelizmente, depois dessas duas semanas, minha produtividade mergulhou rumo ao zero e já fazem duas semanas que eu produzo muito pouco ou quase nada (no trabalho a produtividade foi nula, mas até que completei uma ou outra coisa no curso de computação). Daí que tenho buscado entender o que causou essa queda de produtividade.&lt;/p&gt;
-
-&lt;p&gt;Será que eu trabalhei demais e isso me deixou extenuado? Acho difícil, pois a bem da verdade é que nos dias que eu trabalhei bem, eu terminava o expediente mais animado e num visível bom humor. Quando não consigo render é que as coisas rapidamente tomam um rumo mais sombrio.&lt;/p&gt;
-
-&lt;p&gt;Será que estou sentindo falta de algo concreto como resultado dessas horas de foco? Isso é possível, embora eu não tenha certeza. Embora as horas de foco sejam de fato necessárias, a bem da verdade é que se trataram basicamente de horas de leitura e tomada de notas. Ainda não escrevi nada original a partir das leituras que fiz. Talvez isso seja algo a explorar.&lt;/p&gt;
-
-&lt;p&gt;Será que falta um ritual que me mantenha sempre ciente do que busco e do que dá certo? Pensei nisso porque esses dias me ocorreu que um aspecto recorrente em algumas religiões e na minha própria criação era a presença desses rituais periódicos - no caso, as missas - que as pessoas frequentavam. Fiquei a pensar que, talvez, a missa, com seus sermões, confissões e o encontro da comunidade, seja uma ferramenta fundamental para manter as pessoas no caminho da religião.&lt;/p&gt;
-
-&lt;p&gt;Especificamente, a confissão parece ser uma ferramenta útil de passar em revista às coisas que fizemos. O que acertamos, mas, principalmente, o que erramos e como melhorar ou buscar reparação. &lt;em&gt;Accountability&lt;/em&gt; na veia.&lt;/p&gt;
-
-&lt;p&gt;Os sermões eram sempre uma mensagem preparada pelo sacerdote para lembrar os fiéis do que se busca espiritualmente. No que devemos mirar. Talvez essa lembrança recorrente seja capaz de nos incutir um ânimo tal qual aquele que surge depois que você lê um bom livro ou assiste uma boa palestra.&lt;/p&gt;
-
-&lt;p&gt;O convívio da comunidade talvez seja só uma parte necessária da condição humana. Mesmo eu, que aprecio a solitude e tenho poucos, mas bons amigos, sinto falta - ainda mais depois de 1 ano de pandemia - de simplesmente estar perto de gente.&lt;/p&gt;
-
-&lt;p&gt;Todas as características acima também estavam presentes na escola. Você tinha os horários de foco/aula, os períodos que passava em revista e era avaliado - as provas - e, finalmente, a convivência com os colegas. Na universidade também se observava isso. E, em certa medida, até no trabalho no escritório.&lt;/p&gt;
-
-&lt;p&gt;No entanto, o home office combinado com os prazos extremamente elásticos e a solidão do desenvolvimento solo de um estudo - tudo isso com o ralo de atenção que é a internet - isto é um baita desafio até para os mais comprometido dos funcionários.&lt;/p&gt;
-
-&lt;p&gt;Não sei bem se esses pensamentos fazem sentido, mas penso que talvez seja útil para mim, com o objetivo de manter uma consistência maior na produtividade, desenhar algum tipo de ritual que emule essas características desejáveis. Também não sei bem como fazer isso, mas vou tentar pensar a respeito.&lt;/p&gt;
-</description>
+      <description>Depois que acabei a leitura de 12 Rules for life e Deep Work, tive duas semanas de trabalho extremamente produtivas. Em cada um dos dias dessas semanas, consegui colocar cerca de 3h de foco extremo nas atividades que eu me propus a fazer.</description>
     </item>
     
     <item>
       <title>Resenha - 12 Rules for Life</title>
-      <link>/posts/12%20rules%20for%20life/</link>
+      <link>/posts/12-rules-for-life/</link>
       <pubDate>Sun, 04 Apr 2021 18:13:50 -0300</pubDate>
       
-      <guid>/posts/12%20rules%20for%20life/</guid>
-      <description>
-
-&lt;p&gt;Há algum tempo eu tive contato com os vídeos de &lt;a href=&#34;https://en.wikipedia.org/wiki/Jordan_Peterson&#34;&gt;Jordan B. Peterson&lt;/a&gt; no Youtube ao mesmo tempo que vi reportagens (e amigos de orientação mais à esquerda) retratando-o como representante da extrema-direita. Isso me deixava encucado: como pode esse cara articulado e cujas ideias expressadas nos vídeos me pareciam bastante razoáveis, ser esse monstro que pintam? Teria eu me tornado uma pessoa de extrema-direita sem perceber ou as reportagens e meus amigos estavam exagerando? Pra tirar essa dúvida decidi que precisava ler os escritos do cara na fonte, ao invés de me escorar na percepção de terceiros e tampouco em alguns poucos vídeos.&lt;/p&gt;
-
-&lt;p&gt;Recentemente terminei de ler o livro &lt;a href=&#34;https://www.amazon.com.br/12-Rules-Life-Antidote-Chaos/dp/0141988517/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;dchild=1&amp;amp;keywords=12+rules+for+life&amp;amp;qid=1617571481&amp;amp;sr=8-1&#34;&gt;&amp;lsquo;12 rules for life&amp;rsquo;&lt;/a&gt;. Neste post tento sintetizar o conteúdo do livro bem como, quando relevante, o efeito que o mesmo teve em mim.
-O livro é dividido em uma introdução, doze capítulos (um por regra) e uma conclusão. Abaixo listo as regras e minhas impressões.&lt;/p&gt;
-
-&lt;h1 id=&#34;1-stand-up-straight-with-your-shoulders-back&#34;&gt;1. Stand up straight with your shoulders back&lt;/h1&gt;
-
-&lt;p&gt;Este capítulo se inicia com uma alegoria inusitada. Jordan Peterson analisa um aspecto das lagostas que pode ser percebido em diversos outros animais: a presença de um hierarquia social. Esta hierarquia, que no caso das lagostas é baseada na força, tem impacto sobre como a sociedade percebe um indivíduo. Um animal com alto status social em geral é percebido como um (potencialmente) melhor parceiro sexual e acaba tendo uma vida mais fácil. Já o animal com status social baixo é preterido nos mais diversos aspectos da vida.&lt;/p&gt;
-
-&lt;p&gt;Um traço marcante das hierarquias sociais, argumenta Peterson, é sua estabilidade. Em geral, o indivíduo de baixo status social dificilmente ascende. No caso das lagostas, o crustáceo mais fraco não ousa desafiar o mais forte, uma vez que o resultado esperado do embate é, provavelmente, a sua morte. Essa estabilidade pode ser percebida também nos seres humanos. Peterson nota que, em geral, crianças que sofreram &lt;em&gt;bullying&lt;/em&gt; na escola em geral tem uma atitude mais passiva perante a vida - mesmo na idade adulta (a tal da estabilidade da hierarquia).&lt;/p&gt;
-
-&lt;p&gt;Jordan argumenta então que devemos voluntariamente lutar contra essa estabilidade ruim que se impõe e triunfa sob nossa passividade. É preciso que nos portemos de maneira altiva e enfrentemos a vida de espinha ereta se quisermos ser percebidos como membros louváveis na hierarquia social. Afinal de contas, é pouco provável que o &lt;em&gt;bully&lt;/em&gt; da quinta série sequer lembre que você exista. Aqui me recordo da frase clássica de Sêneca: &amp;ldquo;Sofremos mais na imaginação do que na realidade.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;De fato, o auto reconhece que &amp;ldquo;endireitar as costas&amp;rdquo; parece um conselho vazio para retirar alguém de uma depressão profunda. É aqui que Peterson revela uma eloquência à qual eu jamais faria justiça se tentasse resumir, de modo que reproduzo dois trechos abaixo.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;(&amp;hellip;) But standing up straight with your shoulders back is not something that is only physical, because you&amp;rsquo;re not only a body. You&amp;rsquo;re a spirit, so to speak - a psyche - as well. Standing up physically also implies and invokes and demands standing up metaphorically. Standing up means voluntarily accepting the burden of Being. Your nervous system responds in an entirely different manner when you face the demands of life voluntarily. You respond to a challenge, instead of bracing for a catastrophe. (&amp;hellip;)&lt;/p&gt;
-
-&lt;p&gt;To stand up straight with your shoulders back is to accept the terrible responsibility of life, with eyes wide open. It means deciding to voluntarily transform the chaos of potential into realities of habitable order. It means adopting the burden of self-conscious vulnerability, and accepting the end of the unconscious paradise of childhood, where finitude and mortality are only dimly comprehended. It means willingly undertaking the sacrifices necessary to generate a productive and meaningful reality(&amp;hellip;)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;2-treat-yourself-like-someone-you-are-responsible-for-helping&#34;&gt;2. Treat yourself like someone you are responsible for  helping&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo Jordan Peterson argumenta, após fazer uma exposição sobre histórias contidas no livro Gênesis, da Bíblia, que é possível que alguns de nós cuidemos mais dos outros (ou de nossos pets, por exemplo) do que nós mesmos porque, de alguma, acreditamos que temos pouco valor.&lt;/p&gt;
-
-&lt;p&gt;Essa percepção de pouco valor pode vir do fato de que os seres humanos são os únicos animais capazes de fazer mal a outros seres de maneira deliberada como um fim em si mesmo. Em contraposição, outros animais são capazes de matar outros animais - mas isso em geral se dá num contexto de caça (busca por alimento) ou de auto defesa.&lt;/p&gt;
-
-&lt;p&gt;Ele argumenta então que fazer bem para si e para outros mesmo achando que temos pouco valor é mais difícil do que fazer isso quando não temos essa consciência. Fazer bem para si é uma condição necessária para que continuemos aptos a fazer bem para os outros. E é especialmente importante que continuemos fazendo o bem mesmo tendo consciência da nossa capacidade para fazer o mal. Isto é motivo para orgulho e, quem sabe, argumnta Petereson, seja o motivo pelo qual um dia sejamos dignos de alguma comparação com o divino.&lt;/p&gt;
-
-&lt;h1 id=&#34;3-make-friends-with-people-who-want-the-best-for-you&#34;&gt;3. Make friends with people who want the best for you&lt;/h1&gt;
-
-&lt;p&gt;Este capítulo do livro é menos baseado em leituras e interpretações de outros textos. Peterson, para embasar seus pontos, se baseia muito em experiências próprias - mas que nem por isso parecem menos convincentes.&lt;/p&gt;
-
-&lt;p&gt;É importante que queiramos por perto sempre as pessoas que nos estimulam a nos tornar melhores - não piores. Isso parece ser óbvio, mas o mero exercício de se perguntar - essa pessoa faz eu pender para o bom ou o mau caminho? - pode revelar traços menos óbvios de companhias. Embora possa parecer divertido estar sempre por perto do amigo &amp;ldquo;farreiro&amp;rdquo;, a verdade é que é meio triste e vazio. Parece inevitável - pelo menos em minha experiência - que, para meu próprio bem, a amizade diminua ao longo do tempo.&lt;/p&gt;
-
-&lt;p&gt;Amizade, no entanto, não tem a ver somente com o que você recebe dela, mas o que você provê para seus amigos. Aqui é importante lembrar que é impossível salvar que não quer ser salvo. Esse ponto é importante porque se atribuímos somente ao mundo a responsabilidade dos infortúnios de uma pessoa, na verdade a estamos privando de qualquer agência que possa ter sobre a própria vida - e, assim, a estamos privando também do que pode ser a vir a força necessária para mudar a própria situação.&lt;/p&gt;
-
-&lt;p&gt;Finalmente, é comum que relutemos em deixar que amizades &amp;ldquo;ruins&amp;rdquo; desapareçam em nome da lealdade que devemos ter com nossos amigos. Aqui Peterson fornece o melhor dos conselhos do capítulo: &lt;strong&gt;a lealdade é algo negociado, justa e honestamente. Amizade é um acordo recíproco&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;4-compare-yourself-to-who-you-were-yesterday-no-to-who-someone-else-is-today&#34;&gt;4. Compare yourself to who you were yesterday, no to who someone else is today&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo, Jordan inicia sua análise postulando que, em comunidades pequenas, é mais fácil  para um indivíduo se destacar em alguma coisa. Isto se dá somente porque a comunidade é pequena e o indivíduo se compara somente com os membros desta comunidade. No entanto, se destacar em algo é virtualmente impossível numa comunidade grande (como por exemplo as grandes cidades) ou mesmo o mundo (por causa da ubiquidade da internet). &lt;strong&gt;Numa escala grande o suficiente, haverá infinitas pessoas melhores que você em qualquer aspecto que você escolha se comparar&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O autor não busca solucionar essa questão dizendo que não devemos nos comparar ou fazer juízo de valor sobre as coisas. Pelo contrário, &lt;strong&gt;padrões não são ilusórios ou desnecessários&lt;/strong&gt;. A decisão de fazer algo (e, por consequência, não fazer outra coisa) já implica um juízo de valor: e mais, juízo de valor é uma precondição para qualquer ação.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&amp;ldquo;Mas se há infinitas pessoas melhores que nós, qual o ponto de fazer algo? Em um milhão de anos, quem saberá a diferença? A resposta para essas perguntas não é: nada vale a pena. A resposta para essa pergunta é: &lt;strong&gt;qualquer idiota pode definir um escopo no qual nada vale a pena&lt;/strong&gt;. Se convencer da irrelevância das coisas não é uma crítica profunda do Ser. É um truque barato da mente racional.&amp;rdquo; (tradução livre)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Primeiro precisamos começar lembrando que entre o sucesso e o fracasso há uma miríade de possibilidades. Segundo, há infinitas comparações que podem ser feitas e, em alguma dessas comparações, você não vai sair tão mal assim. Terceiro, comparações pressupõem uma certa situação estanque, final. Mas mesmo que você prevaleça numa comparação específica, isso não implica que você esteja crescendo e &lt;strong&gt;&amp;ldquo;crescer talvez seja a mais importante forma de vencer&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O &lt;em&gt;crítico interior&lt;/em&gt; em cada um de nós funciona da seguinte maneira:&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Ele seleciona um único e arbitrário domínio de comparação.&lt;/li&gt;
-&lt;li&gt;Neste domínio ele compara você com alguém verdadeiramente incrível.&lt;/li&gt;
-&lt;li&gt;Ele trata a diferença entre você e o maioral como uma inescapável injustiça da vida.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Aqueles que aceitam esta abordagem do &lt;em&gt;crítico interior&lt;/em&gt; como forma de auto-avaliação não podem ser acusados de buscar a saída fácil para seus problemas. No entanto, &lt;strong&gt;tornar as coisas intransponíveis é tão problemático quanto as fazer facílimas&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Quando somos jovens, não somos individuais nem informados. Ainda não tivemos tempo nem temos a experiência necessária para desenvolver nossos próprios padrões. Assim, devemos nos comparar aos outros, porque padrões são necessários. Sem eles, não há para onde ir e não há o que fazer. Conforme amadurecemos nos tornamos cada vez mais individuais e únicos. As condições de vida se tornam cada vez mais pessoais  e cada vez menos comparáveis com outras pessoas.&lt;/p&gt;
-
-&lt;p&gt;Quem é você? Você acha que se conhece, mas talvez não se conheça. Você não é seu mestre nem seu escravo. Você não pode facilmente se obrigar a fazer algo que realmente não queira. Você pode moldar seus interesses, mas há um limite. Algumas atividades vão interessar a você. Outras simplesmente não.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;O primeiro passo para &amp;ldquo;melhorar&amp;rdquo; é fazer um diagnóstico. &lt;strong&gt;Quem é você?&lt;/strong&gt; Você não pode consertar o que nem sabe que está quebrado. Se você levar em conta os problemas do &lt;em&gt;crítico interno&lt;/em&gt; que foram listados acima, talvez você possa fazer uso dele nesse exercício de auto-avaliação. O objetivo não é resolver os problemas todos de uma vez. O objetivo é somente dar um passo na direção correta. &amp;ldquo;&lt;strong&gt;Talvez a felicidade seja sempre encontrada na jornada montanha acima e não na rápida satisfação de alcançar o próximo pico.&amp;rdquo;&lt;/strong&gt;. Coopere consigo mesmo para resolver os problemas identificados juntamente com o crítico interno.&lt;/p&gt;
-
-&lt;p&gt;O que você enxerga é totalmente dependente do que você foca. Embora a visão seja algo amplo, boa parte do que está no nosso campo de visão é ignorado por causa do nosso foco. Embora isso possa ser um problema, na medida que podemos ignorar coisas importantes, essa característica também permite que nosso foco seja uma ferramenta útil na medida em que permite que ignoremos situações que podem ser acachapantes e que trabalhemos em um pequeno aspecto das nossas vidas que podemos melhorar.&lt;/p&gt;
-
-&lt;h1 id=&#34;5-do-not-let-you-children-do-anything-that-makes-you-dislike-them&#34;&gt;5. Do not let you children do anything that makes you dislike them&lt;/h1&gt;
-
-&lt;p&gt;Este é um capítulo focado na criação de filhos - motivo pelo qual, confesso, não o li com a mesma atenção que dispensei às outras regras. Mesmo assim, vou tentar resumi-lo.&lt;/p&gt;
-
-&lt;p&gt;O argumento principal de Peterson é que &lt;strong&gt;ser o pai&lt;/strong&gt; (ou mãe, obviamente) de uma criança necessariamente &lt;strong&gt;vem antes de ser amigo de seu filho&lt;/strong&gt;. A imposição de limites é necessária para que sua cria saiba que não pode fazer tudo e para que ela consiga conviver em sociedade. Uma criança sem limites tem mais dificuldade de ter amigos e de ser aceita em novos ambientes.&lt;/p&gt;
-
-&lt;p&gt;Os pais não devem ter medo de perder a amizade dos filhos por causa de punições justificáveis. &lt;strong&gt;A missão dos pais é utilizar sempre a &lt;em&gt;menor&lt;/em&gt; força possível para punir, quando necessário, um comportamento indesejado&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;h1 id=&#34;6-set-your-house-in-perfect-order-before-you-criticize-the-world&#34;&gt;6. Set your house in perfect order before you criticize the world&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo Peterson explora o seguinte fenômeno: situações trágicas ensejando reações violentas. O exemplo recorrente no capítulo são os fuzilamentos em massa, comuns nos EUA, mas também situações onde as pessoas chegam à conclusão de que a única saída para tanto sofrimento é o suicídio (como no caso de Tolstoy - que não se matou, diga-se).&lt;/p&gt;
-
-&lt;p&gt;Embora o autor reconheça o apelo argumentativo de que a vingança, quando feita por uma pessoa que sofreu as piores atrocidades na vida, possa ser compreensível, ele deixa claro (e exemplifica) que é possível surgir o Bem dessas situações lamentáveis. E esse Bem parece uma espécie de super poder.&lt;/p&gt;
-
-&lt;p&gt;O sofrimento, principalmente quando oriundo de fontes identificáveis (por exemplo situações de abuso), embora naturalmente gere o desejo de vingança, também permite que seja aprendido que causar mal aos outros é algo muito ruim e de difícil reparação. Esta é a principal razão que explica a quebra de padrões de comportamentos ruins entre gerações. É possível que uma criança abusada não abuse de seu filho. É possível que o filho de um alcoólatra nunca beba.&lt;/p&gt;
-
-&lt;p&gt;Nas recomendações pessoais, o autor recomenda que comecemos aos poucos:
-- Você está aproveitando as oportunidades oferecidas a você?
-- Você está se esforçando no trabalho ou está deixando que a amargura te segure e te arraste? &lt;em&gt;(esta reverberou em mim)&lt;/em&gt;
-- Você está em paz com sua família?
-- Seus hábitos estão destruindo o seu bem-estar? &lt;em&gt;(esta também sempre me põe a pensar)&lt;/em&gt;
-- Existem coisas que você pode fazer que melhorariam as coisas ao seu redor?&lt;/p&gt;
-
-&lt;p&gt;Comece parando de fazer as coisas erradas. Mas que coisas erradas? &lt;strong&gt;Você sabe que algo está errado mesmo que não saiba muito bem explicar porque. Dê um pouco de crédito à sua intuição&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Pare de dizer coisas que façam você se sentir pequeno e envergonhado. Diga somente coisas que façam você se sentir forte, honrado.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Você não precisa aderir a algum código externo e arbitrário. No entanto, não deixe de observar os costumes do seu meio - &amp;ldquo;a vida é curta e você não tem tempo de descobrir tudo - a sabedoria do passado vem a duras penas, faça uso dela.&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;Se você começa a cuidar da própria alma, quando as inevitáveis tragédias da vida chegarem a você, elas não serão combinadas com amargura e enganação. Talvez você consiga até enxergar a  Existência como algo genuinamente bom e pense que se mais pessoas fizessem o mesmo o mundo talvez se tornasse um lugar melhor.&lt;/p&gt;
-
-&lt;h1 id=&#34;7-pursue-what-is-meaningful-not-what-is-expedient&#34;&gt;7. Pursue what is meaningful (not what is expedient)&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo Jordan Peterson explora os argumentos  que motivam a busca daquilo que é significativo ao invés da busca daquilo que é imediato, rápido, expediente.&lt;/p&gt;
-
-&lt;h2 id=&#34;postergando-a-recompensa&#34;&gt;Postergando a recompensa&lt;/h2&gt;
-
-&lt;p&gt;O autor inicia o capítulo postulando algo que é óbvio a esta altura do livro: &lt;strong&gt;a vida é sofrimento&lt;/strong&gt;. Porque então não perseguir o prazer imediato, seja por meio da mentira ou o que for, posto que vamos morrer e deste plano nada se leva? Há alguma alternativa a este raciocínio e a esta conclusão?&lt;/p&gt;
-
-&lt;p&gt;O autor então explora maneiras como nossos ancestrais exploraram este problema. Primeiro através de rituais que evoluíram para histórias e então para predicados morais.&lt;/p&gt;
-
-&lt;p&gt;O oposto da busca imediata por prazer é, obviamente, a postergação do mesmo. Peterson argumenta que há pouca diferença entre trabalho e sacrifício e que ambos são características eminentemente humanas. A primeira vista, isto parece óbvio e simples. No entanto, essa formulação prosaica - que trabalho é sacrifício - esconde algo que é profundo.&lt;/p&gt;
-
-&lt;p&gt;A descoberta de que a gratificação pode ser postergada coincide com a descoberta do tempo e, com isso, da causalidade. Regular nossos impulsos pode trazer benefícios no futuro de uma maneira inimaginável antes desta postergação. &lt;em&gt;O ser humano entendeu isso muito antes de que pudesse formular uma explicação para tal comportamento&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Mesmo sabendo que o sacrifício hoje pode trazer benefício no futuro, restam algumas dúvidas:
-- quanto sacrifício é suficiente?
-- quão bom é o futuro se fizermos o mais adequado dos sacrifícios?
-&amp;gt;&lt;em&gt;Asking such questions is indistinguishable from thinking.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Fica claro que nem todos os sacrifícios são iguais, que dois sacrifício iguais podem ser recompensados de maneira distinta e, por consequência, que é possível que o mais adequado dos sacrifícios sequer sejam recompensado&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Embora não haja garantia de que sacrifício elimine as situações ruins da vida, quando vislumbramos a alternativa, é evidente que postergar a gratificação e guardar para o futuro significa compartilhar (mesmo que seja com o eu futuro) e compartilhar significa ser confiável e, quem sabe, contar com a confiança de outras pessoas. A postergação da gratificação torna-se assim, uma questão moral.&lt;/p&gt;
-
-&lt;h2 id=&#34;o-mal&#34;&gt;O Mal&lt;/h2&gt;
-
-&lt;p&gt;O sofrimento causado pela consciência de Ser, que a princípio justificaria um comportamento egoísta - muito embora, como relatamos na seção anterior, a postergação da gratificação tenha mais sucesso em manter o sofrimento longe - por vezes é entendido como algo próprio da &lt;strong&gt;natureza indiferente do mundo&lt;/strong&gt;. No entanto, há um outro tipo de sofrimento que buscamos evitar: &lt;strong&gt;o mal causado pelo próprio ser humano&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;O ser humano é o único animal que, sabendo o que lhe faz mal, é capaz de causar este mal a outra pessoa de maneira deliberada. O mal causado por um ser humano é capaz de quebrar até o espírito de alguém capaz de resistir a mais brutal das intempéries e tragédias da natureza. O que então motivaria este mal?&lt;/p&gt;
-
-&lt;p&gt;Peterson argumenta que o mal surge da má sorte na vida potencializada por recorrentes sacrifícios (independente da qualidade destes) rejeitados, não recompensados. O problema central da vida então passa a ser não somente o sacrifício como forma de diminuir o sofrimento natural, mas também como se proteger do mal - o mal consciente e voluntário.&lt;/p&gt;
-
-&lt;p&gt;É relativamente fácil entender a motivação que faz as pessoas sujeitas a situações deploráveis cometerem atos de maldade como forma de vingança. É mais difícil e, por isso, mais importante buscarmos entender como em situações onde seria natural surgir comportamentos deploráveis ainda existam tantos exemplos de bondade.&lt;/p&gt;
-
-&lt;p&gt;Se o Mal é fazer alguém sofrer pelo mero prazer de causar esse sofrimento então o Bem é exatamente o oposto disso. O Bem é tomar medidas para fazer o Mal cessar.&lt;/p&gt;
-
-&lt;h2 id=&#34;o-axioma&#34;&gt;O axioma&lt;/h2&gt;
-
-&lt;p&gt;O quanto eu puder, eu agirei de maneira que leve ao alívio da dor e sofrimento desnecessários.&lt;/p&gt;
-
-&lt;h1 id=&#34;8-tell-the-truth-or-at-least-don-t-lie&#34;&gt;8.Tell the truth (or at least don&amp;rsquo;t lie)&lt;/h1&gt;
-
-&lt;p&gt;Este é, na minha opinião, o melhor capítulo do livro - tanto em conteúdo quanto na forma como é escrito. Nele, Jordan aconselha que não utilizemos da mentira em nosso moda de vida. Não há grande novidade no conselho, mas o autor é muito feliz em ilustrar as consequências do costume e em relatar o sentimento do mentiroso contumaz - grupo no qual estou incluído.&lt;/p&gt;
-
-&lt;p&gt;Que a mentira tem consequências não intencionais isso é óbvio. Porque então mentimos? Precisamos avaliar os motivos pessoalmente. Jordan analisa os seus. Ele reconhece que mentia para ganhar discussões, status e para impressionar pessoas e conseguir o que queria. Ele reconhece que usava a linguagem para retorcer o mundo de modo a entregar o que ele (Peterson) entendia como necessário.&lt;/p&gt;
-
-&lt;p&gt;Uma pessoa que vive uma farsa é alguém que tenta manipular a realidade através da percepção, pensamento e ações de modo que somente um resultado estrito e pré-concebido é permitido a existir. Uma vida dessa maneira é baseada em duas premissas: que o conhecimento corrente é suficiente para definir o que é bom e; que a realidade é intolerável e, por isso, deve ser distorcida e manipulada.&lt;/p&gt;
-
-&lt;p&gt;Jordan aborda também a questão da mentira como ato de omissão. O silêncio obsequioso daqueles que escolhem se calar frente a algo verdadeiramente errado corrói a alma aos poucos e tampouco garante qualquer salvação. Apenas atrasa a ruína.&lt;/p&gt;
-
-&lt;p&gt;&amp;ldquo;Se você não se revela aos outros, você não se revela a si mesmo.&amp;rdquo; Se você não se expõe, você não desenvolve as partes do seu eu que vêm a tona por força da necessidade das circunstâncias. Você certamente será incompleto - e a vida é mais difícil para quem está incompleto.&lt;/p&gt;
-
-&lt;p&gt;Quando mentimos, nós estamos a nos trair e a enfraquecer o nosso caráter. Com o caráter fraco, estamos mais sujeitos às pancadas - inevitáveis - da vida.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;For what shall it profit a man if he gain the whole world and forfeit his soul? (Mark 8:36)&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&#34;ao-invés-a-verdade&#34;&gt;Ao invés, a verdade&lt;/h2&gt;
-
-&lt;p&gt;Devemos fazer as pazes com aquilo não sabemos. De forma alguma você é apenas aquilo que já conhece. Você é também tudo aquilo que você poderia saber, se ao menos você pudesse. Você não deve jamais sacrificar o que você poderia ser pelo que você é. Você não deve jamais abrir mão da sua versão melhorada que reside dentro de si por causa da segurança do que você já tem - em especial se você já teve um vislumbre daquilo que está além.&lt;/p&gt;
-
-&lt;p&gt;Como norte para o que você quer atingir, defina suas ambições. Estas ambições devem estar mais relacionadas a desenvolvimento de caráter e habilidades do que a status e poder. Explique suas ambições para si mesmo e para pessoas próximas. E quando fizer isto, não minta!&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;If you pay attention to what you do and say, you can learn to feel a state of internal division and weakness when you are misbehaving and misspeaking. &lt;strong&gt;It&amp;rsquo;s and embodied sensation, not a thought&lt;/strong&gt;. I experience an internal sensation of sinking and division, rather than solidity and strength, when I am incautious with my acts and words. &lt;strong&gt;It seems to be centered in my solar plexus, where a large knot of nervous tissue resides&lt;/strong&gt;. I learned to recognize when I was lying, in fact, by noticing this sinking and division, and then inferring the presence of a lie. It often took me a long time to ferret out the deception. Sometimes I was using words for appearance. Sometimes I was using the words of others to avoid the responsibility of thinking for myself.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&amp;ldquo;A verdade reduz a terrível complexidade de um homem à simplicidade de sua palavra, de modo que ele pode se tornar um parceiro, ao invés de um inimigo. A verdade faz do passado realmente o passado e assim, faz melhor uso das possibilidades futuras.&amp;rdquo;&lt;/p&gt;
-
-&lt;h1 id=&#34;9-assume-that-the-person-you-are-listening-to-might-know-something-you-don-t&#34;&gt;9. Assume that the person you are listening to might know something you don&amp;rsquo;t&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo Jordan Peterson busca diferenciar os diferentes tipos de conversa, bem como os benefícios de escutar atentamente o que lhe é falado.&lt;/p&gt;
-
-&lt;p&gt;Utilizando alguns exemplos oriundos de clientes do seu consultório de psicoterapia, Jordan começa a elaborar o argumento de que &lt;strong&gt;a fala é um instrumento poderoso de conhecimento dos outros e de nós mesmos, se de fato prestarmos atenção no que é dito&lt;/strong&gt;. A importância de escutar (e não somente de reagir rapidamente) ao que nos é falado tem relação com mecanismos de auto-convencimento a partir de validação externa. Um excerto em particular me chamou a atenção, que reproduzo a seguir:&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Memory is not a description of the objective past. Memory is a tool. Memory is the past&amp;rsquo;s guide to the future. If you remember that something bad happened, and you can figure out why, then you can try to avoid that bad thing happening again. That&amp;rsquo;s the purpose of memory. It&amp;rsquo;s not &amp;ldquo;to remember the past&amp;rdquo;. It&amp;rsquo;s to stop the same damn thing from happening over and over.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Mais adiante o autor diz que as pessoas não pensam. Elas pensam que pensam. Na maioria das vezes, no entanto, o que se passa por pensamento na verdade não é mais do que autocrítica. O pensamento verdadeiro, nesse sentido, é escutar a si mesmo. É algo complexo e demandante. Requer que você seja um falante articulado e cuidadoso, ao mesmo tempo que escuta atentamente. Envolve conflito, de modo que você deve tolerar o conflito (&lt;em&gt;não é o meu caso, acredito&lt;/em&gt;). Mas, em sendo difícil pensar e ser duas pessoas ao mesmo tempo (o falante e o ouvinte), então como proceder? Nós falamos, conversamos.&lt;/p&gt;
-
-&lt;p&gt;Como forma de tornar uma conversa útil, Peterson cita um dica de Carl Rodgers: só fale após você escutar e resumir a fala da pessoa com quem você está conversa - e se a pessoa entender que seu resumo está adequado. Além dessa dica evitar desentendidos, ela ajuda que organizemos o pensamento e que se crie memória de maneira mais efetiva.&lt;/p&gt;
-
-&lt;p&gt;É importante, em conversas, ser paciente. É comum que as pessoas desenvolvam o raciocínio e articulem melhor uma ideia já existente na medida em que falam sobre ela. (&lt;em&gt;isso me lembra de quando eu fico a falar na frente do espelho ou sozinho sobre assuntos diversos - realmente sinto que ajuda.)&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Ao escutarmos os outros e a nós mesmos com cuidado estamos na verdade reconhecendo que o conhecimento que temos até então não é suficiente para Ser e por isso avaliamos o que vem de fora e reavaliamos o que já está em nós. A busca desse conhecimento novo talvez seja a forma mais alta de sabedoria - a ciência de que não sabemos tudo (como Sócrates - só sei que nada sei).&lt;/p&gt;
-
-&lt;h1 id=&#34;10-be-precise-in-your-speech&#34;&gt;10. Be precise in your speech&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo Jordan destaca que nossa percepção é responsável por fazer-nos ver o mundo e os objetos neles contidos não como de fato são, mas como coisas que podemos utilizar e um ambiente pelo qual navegar. Isso não quer dizer que o mundo e as coisas são simples. Pelo contrário, tudo é interconectado a tudo em várias dimensões. No entanto, nossa percepção utiliza da simplificação porque não podemos processar toda essa complexidade real. É por isso que nosso foco é de sumo importância.&lt;/p&gt;
-
-&lt;p&gt;De fato, o mundo e as coisas só são percebidas como simples quando se encaixam na percepção que já temos. O exemplo usado para ilustrar isso é que só nos damos conta da complexidade de um automóvel quando ele deixar de funcionar. O problema é no motor? Na bateria? Nas velas? Quando o carro está funcionando você ignora todos esses detalhes.&lt;/p&gt;
-
-&lt;p&gt;O que vemos então quando não sabemos para o que estamos olhando? O caos. O que vemos é a emergência (no sentido de emergir). E nessa hora, deixamos a nossa mente, que é devagar e laboriosa, de lado em favor do nosso corpo, que reage rapidamente. Isso ilustra a importância de que estejamos atentos ao mundo e evitemos os pecados de omissão.&lt;/p&gt;
-
-&lt;p&gt;O pecado de omissão desta regra é &lt;strong&gt;deixar tomar uma proporção perigosa questões que poderiam ter sido analisadas e resolvidas antes de se tornarem grandes demais&lt;/strong&gt;. Porque deixar de investigar algo se o conhecimento da realidade possibilita o domínio (ainda que não total) da realidade? Porque deixar de especificar um problema, se ao fazer isso você viabiliza a solução? Porque especificar o problema implica reconhecer que o mesmo existe. Porque &lt;strong&gt;ao especificar o problema, você define quando ele estará resolvido - mas você também definirá, por consequência, o cenário de falha&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Quando as coisas saem de controle o caos cresce, &lt;strong&gt;podemos utilizar o discurso e articulação para reestabelecer a ordem. Se formos cuidadosos e precisos, podemos ordenar as coisas, colocar cada uma em seu lugar, estabelecer objetivos e navegar em direção a estes&lt;/strong&gt;. Inclusive, podemos fazer isso cooperando com os outros - se negociarmos e alcançarmos consenso. No entanto, se falamos de maneira desleixada e imprecisa, as coisas permanecem vagas. O destino ao qual desejamos chegar não fica claro. Não conseguimos sequer negociar.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;O que está errado, exatamente?&lt;/li&gt;
-&lt;li&gt;O que eu quero, exatamente?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Responder a estas questões utilizando um discurso preciso e honesto é a única maneira de restabelecer a ordem no lugar do caos.&lt;/p&gt;
-
-&lt;h1 id=&#34;11-do-not-bother-children-when-they-are-skateboarding&#34;&gt;11. Do not bother children when they are skateboarding&lt;/h1&gt;
-
-&lt;p&gt;Neste capítulo Jordan Peterson explora o papel do perigo e da experimentação deste perigo na formação das personalidades masculinas e femininas. Adicionalmente, o autor faz uma análise acerca das tentativas - e do perigo que isso traz - de negação das características masculinas para a sociedade e para as pessoas.&lt;/p&gt;
-
-&lt;p&gt;De início Jordan pontua que brincadeiras seguras demais não costumam ter graça para crianças. Isso acontece porque estas querem o triunfo sobre o perigo. Crianças não querem estar seguras - elas querem se tornar competentes - e é essa competência que ao fim e ao cabo tem alguma chance de prover segurança na vida adulta. Segundo o autor, as pessoas não querem minimizar os riscos que correm - elas querem otimizá-lo. É isto que provê a excitação e o desejo que se observa em muitos jogos - nós queremos melhorar nossa performance futura enquanto nos divertimos no presente.&lt;/p&gt;
-
-&lt;p&gt;Em relação as críticas frequentes à cultura patriarcal, Peterson postula que toda cultura tem uma estrutura opressiva, por definição. Toda cultura é recebida do passado e, portanto, é míope e desatualizada. Cabe aos seres do presente resgatar esta cultura e repará-la. Na medida em que uma cultura tende a encaixar pessoas em papéis pré-determinados, Jordan concorda que isso pode estragar um grande potencial. No entanto, a cultura também provê estrutura, uma destilação de sabedoria que sobreviveu ao teste do tempo (pelo menos até o momento). Então há pró e contras - não há que se falar que toda cultura é indesejável.&lt;/p&gt;
-
-&lt;p&gt;Em uma seção denominada &amp;ldquo;&lt;em&gt;Compassion as a Vice&lt;/em&gt;&amp;rdquo; Jordan explora a situação onde pessoas muito propensas a baixar a cabeça acabam sendo abusadas por outras pessoas e isso costumeiramente gera um sentimento de ressentimento. Levantar a cabeça e se defender passa então a ser uma obrigação moral do acusado. O autor fornece algumas dicas práticas para isso: identifique precisamente as situações onde o abusador tira vantagem de você; não aceite argumentos do abusador - na medida em que estes forem ruins claro; se o abusador apelar para o lado emocional - demonstrando raiva ou chorando - firme sua base e resista; saiba exatamente o que pedir caso o abusador ceda e entenda seu ponto - aqui fica claro que é sempre saudável assumir ignorância ao invés de malevolência (pelo menos em um primeiro momento).&lt;/p&gt;
-
-&lt;p&gt;Finalmente, Peterson pontua que quando &amp;ldquo;inofensividade&amp;rdquo; e amabilidade são as únicas características conscientemente desejáveis, então dominância e dureza passam a exercer uma fascinação inconsciente nas pessoas.&lt;/p&gt;
-
-&lt;p&gt;A única maneira de se tornar mais forte e resistente é testar seus próprios limites - não há outra maneira.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;(&amp;hellip;) And if you think tough men are dangerous, wait until you see what weak men are capable of.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;12-pet-a-cat-when-you-encounter-one-on-the-street&#34;&gt;12. Pet a cat when you encounter one on the street&lt;/h1&gt;
-
-&lt;p&gt;Neste último capítulo do livro, Jordan Peterson relata o sofrimento de sua filha Mikhaila e, por consequência, de sua família, para ilustrar o ponto de que apesar de todo o sofrimento, há pequenos momentos de respiro que fornecem a força para que continuemos a viver.&lt;/p&gt;
-
-&lt;p&gt;Ao descrever o curioso caso do herói Super-Homem - o herói sem fraquezas - que quase matou a franquia de história em quadrinhos, Jordan deixa claro que a ausência de limitação parece implicar a negação do Ser. Isso acontece, argumenta o autor, porque Ser pressupõe Tornar-se - e Tornar-se é tornar-se algo mais, ou, pelo menos, algo diferente. Isso só é possível para algo que é limitado, incompleto.&lt;/p&gt;
-
-&lt;p&gt;Mas o que fazer se o sofrimento imposto pela limitação do Ser parece ser tamanha que, de maneira lógica, consideremos &amp;lsquo;começar do zero&amp;rsquo; ou simplesmente acabar com o Ser? Estas foram alternativas vislumbradas por Dostoievski e outros pensadores. Jordan argumenta que não é possível responder esta pergunta utilizando-se do pensamento. A resposta para a questão parece ser possível apenas quando consideramos a observação atenta.&lt;/p&gt;
-
-&lt;p&gt;É possível que, observando atentamente aqueles que gostamos, nos demos conta de que gostamos deles não apesar de suas limitações, mas exatamente por causa delas. Isso não quer dizer que devemos aceitar todas as limitações tais como são ou mesmo desistir da busca por melhorias, mas quando a busca por essas melhorias implica a negação do Ser, devemos considerar outras alternativas.&lt;/p&gt;
-
-&lt;p&gt;De modo prático, Peterson destaca que, ao enfrentar um problema muito difícil, é necessário que se destaque um tempo para pensar e falar sobre o problema. Nesses períodos deve-se decidir e planejar como lidar com o mesmo de modo prático. Não se deve pensar no problema em outros momentos - afinal existe uma grande chance de que isso domine sua mente. O objetivo aqui é impedir que você entre em espiral e acabe desabando. Trata-se de uma guerra e não de uma batalha. Conserve sua força. Se possível, não separe esses períodos durante a noite, de modo que seu sono não seja afetado. Sem dormir, as coisas descarrilham de maneira rápida.&lt;/p&gt;
-
-&lt;p&gt;Adicionalmente, mude seu horizonte de planejamento para a janela adequada. Quando tudo está bem é possível fazer planos para meses, anos, décadas. Mas quando a merda foi jogada no ventilador, é melhor que você lide de maneira imediata com as coisas imediatas e coloque grandes planos em baixa prioridade.&lt;/p&gt;
-
-&lt;p&gt;O título de capítulo é explicado na última seção deste. Para o autor, cachorros são amigáveis e recompensam a atenção dispensa a eles com lealdade, admiração e amor. Gatos, por outro lado, são diferentes. Eles não aprendem (ou não fazem) truques. Eles são amigáveis em seus próprios termos. Cachorros foram domesticados. Gatos fizeram uma decisão. Para Peterson, os gatos são uma manifestação da natureza, do Ser, em sua forma mais pura. Eles olham para humanos e os aprovam ou não.&lt;/p&gt;
-
-&lt;p&gt;Se, ao cruzar com um gato na rua, ele, ao invés de te ignorar ou até mesmo te atacar, decide te dar o benefício de fazer um carinho nele, aproveite a oportunidade. É um bom sinal, algum respiro no meio do caos.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;If you pay careful attention, even on a bad day, you may be fortunate enough to be confronted with small opportunities of just that sort.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <guid>/posts/12-rules-for-life/</guid>
+      <description>Há algum tempo eu tive contato com os vídeos de Jordan B. Peterson no Youtube ao mesmo tempo que vi reportagens (e amigos de orientação mais à esquerda) retratando-o como representante da extrema-direita. Isso me deixava encucado: como pode esse cara articulado e cujas ideias expressadas nos vídeos me pareciam bastante razoáveis, ser esse monstro que pintam?</description>
+    </item>
+    
+    <item>
+      <title>Licença Negada</title>
+      <link>/posts/licenca-negada/</link>
+      <pubDate>Sun, 28 Mar 2021 11:29:55 -0300</pubDate>
+      
+      <guid>/posts/licenca-negada/</guid>
+      <description>Da última vez que escrevi neste site, eu havia acabado de sondar com meu chefe a possibilidade de uma licença sem remuneração do trabalho para que eu pudesse me dedicar mais ao estudo da computação. Bem, não vai rolar.
+A falta de pessoal na organização como um todo e na minha área em específico, aliada à imperícia do meu chefe em negociar analistas adicionais para a área implodiram meus planos.</description>
+    </item>
+    
+    <item>
+      <title>Aviso Prévio (kinda)</title>
+      <link>/posts/licenca/</link>
+      <pubDate>Tue, 02 Mar 2021 21:00:06 -0300</pubDate>
+      
+      <guid>/posts/licenca/</guid>
+      <description>Já faz quase um mês desde a última vez que escrevi neste blog. Nesse período não evoluí tanto no assunto computação ou linguagens de programação. No entanto, tomei algumas medidas em direção ao objetivo de estudar o assunto com mais seriedade e dedicação.</description>
+    </item>
+    
+    <item>
+      <title>Not Standard Apt</title>
+      <link>/posts/not-standard-apt/</link>
+      <pubDate>Sun, 07 Feb 2021 13:20:24 -0300</pubDate>
+      
+      <guid>/posts/not-standard-apt/</guid>
+      <description>Tenho tentando usar a distribuição Pop!_OS tanto quanto possível. Trata-se de uma distribuição do GNU/Linux baseada na Ubuntu e feita pela empresa System76. Não que eu desgoste do Windows. Na verdade até tenho achado o Windows 10 um sistema operacional bem bom - nem me lembro a última vez que tive um problema com ele.</description>
+    </item>
+    
+    <item>
+      <title>Euler Project</title>
+      <link>/posts/euler-project/</link>
+      <pubDate>Fri, 05 Feb 2021 21:13:18 -0300</pubDate>
+      
+      <guid>/posts/euler-project/</guid>
+      <description>Em um desses últimos dias o acaso fez com que eu descobrisse o site Project Euler. Nele você encontra mais de 700 problemas matemáticos que podem ser resolvidos com programação. Há desde problemas elementares como, por exemplo, achar a soma de todos os ímpares de Fibonnaci menores que 4.</description>
+    </item>
+    
+    <item>
+      <title>Recursion</title>
+      <link>/posts/recursion/</link>
+      <pubDate>Tue, 02 Feb 2021 21:50:39 -0300</pubDate>
+      
+      <guid>/posts/recursion/</guid>
+      <description>Hoje eu estava terminando a primeira parte (Basic Javascript) do Java Script Algorithms and Data Structures Certification do freeCodeCamp, especificamente o último desafio, quando aprendi algo importante (eu acho).
+O exercício era o seguinte: como escrever uma função que, recebendo dois números, a saber, startNum e endNum, retorna um vetor com todos os números inteiros entre eles?</description>
+    </item>
+    
+    <item>
+      <title>So It Begins (Again)</title>
+      <link>/posts/so-it-begins-again/</link>
+      <pubDate>Sun, 31 Jan 2021 11:11:38 -0300</pubDate>
+      
+      <guid>/posts/so-it-begins-again/</guid>
+      <description>Quase um ano após a última tentativa frustrada de começar a escrever em um site próprio como forma de documentar (e assim estimular) meu aprendizado de algumas tecnologias que talvez me possam ser úteis numa mudança de carreira, eis que surge a versão atual do Hasty Slacker.</description>
+    </item>
+    
+    <item>
+      <title>Sobre o site</title>
+      <link>/about/</link>
+      <pubDate>Sat, 30 Jan 2021 21:06:17 -0300</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hasty Slacker (em português: preguiçoso apressado) é o pseudônimo adotado por um economista – e aspirante a matemático – burocrata do Estado brasileiro que trabalha com regulação e supervisão. Juntamente com o subtítulo do blog, o pseudônimo reflete um traço da minha personalidade que reconheci em um poema de Paulo Leminski, publicado no livro Caprichos &amp;amp; Relaxos (1983):</description>
     </item>
     
   </channel>
